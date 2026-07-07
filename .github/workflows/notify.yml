@@ -1,0 +1,50 @@
+name: Zenn RSS to Discord
+
+on:
+  schedule:
+    # 日本時間 10:00 / 20:00 に実行 (UTC = JST - 9h)
+    - cron: "0 1 * * *"
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+  environment:
+    name: DISCORD
+
+permissions:
+  contents: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup MoonBit
+        uses: hustcer/setup-moonbit@v1
+
+      - name: Show MoonBit version
+        run: moon version --all
+
+      - name: Install dependencies
+        run: moon install
+
+      - name: Build
+        run: moon build --target native
+
+      - name: Run notifier
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ZENN_FEED_URL: ${{ vars.ZENN_FEED_URL }}
+        run:  make run DISCORD_WEBHOOK_URL=${{ secrets.DISCORD_WEBHOOK_URL }} ZENN_FEED_URL=${{ vars.ZENN_FEED_URL }}
+
+      - name: Commit updated state
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git add state.json
+            git commit -m "chore: update notified article state"
+            git push
+          else
+            echo "state.json に変更なし。コミットをスキップします"
+          fi

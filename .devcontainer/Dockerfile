@@ -18,7 +18,9 @@ apt install -y --no-install-recommends \
   git-lfs \
   vim \
   curl \
-  locales
+  locales \
+  make \
+  gcc
 rm -rf /var/lib/apt/lists/*
 locale-gen ja_JP.UTF-8
 update-locale LANG=ja_JP.UTF-8 LC_ALL=ja_JP.UTF-8
