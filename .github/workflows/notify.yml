@@ -5,9 +5,7 @@ on:
     # 日本時間 10:00 / 20:00 に実行 (UTC = JST - 9h)
     - cron: "0 1 * * *"
     - cron: "0 11 * * *"
-  workflow_dispatch: {}
-  environment:
-    name: DISCORD
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,6 +13,8 @@ permissions:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    environment: DISCORD
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
