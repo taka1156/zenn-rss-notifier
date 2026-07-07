@@ -6,7 +6,7 @@ TARGET := native
 ## 依存パッケージを解決してインストールする
 setup:
 	moon update
-	moon install
+	moon check --target $(TARGET)
 
 ## 型チェック(警告もエラー扱い)
 check:

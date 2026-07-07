@@ -25,8 +25,8 @@ jobs:
       - name: Show MoonBit version
         run: moon version --all
 
-      - name: Install dependencies
-        run: moon install
+      - name: Update MoonBit registry
+        run: moon update
 
       - name: Build
         run: moon build --target native
