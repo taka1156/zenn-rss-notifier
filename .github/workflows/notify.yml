@@ -7,6 +7,10 @@ on:
     - cron: "0 11 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: zenn-rss-notifier-state-cache
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -28,6 +32,18 @@ jobs:
       - name: Update MoonBit registry
         run: moon update
 
+      - name: Restore cached state
+        run: |
+          CACHE_BRANCH="state-cache"
+          if git ls-remote --exit-code --heads origin "$CACHE_BRANCH" >/dev/null 2>&1; then
+            git fetch --depth=1 origin "$CACHE_BRANCH"
+            git show FETCH_HEAD:state.json > state.json
+            echo "state.json を $CACHE_BRANCH から復元しました"
+          else
+            rm -f state.json
+            echo "$CACHE_BRANCH が存在しないため空状態で開始します"
+          fi
+
       - name: Build
         run: moon build --target native
 
@@ -37,14 +53,43 @@ jobs:
           ZENN_FEED_URL: ${{ vars.ZENN_FEED_URL }}
         run:  make run DISCORD_WEBHOOK_URL=${{ secrets.DISCORD_WEBHOOK_URL }} ZENN_FEED_URL=${{ vars.ZENN_FEED_URL }}
 
-      - name: Commit updated state
+      - name: Save updated state
         run: |
+          CACHE_BRANCH="state-cache"
+          WORKTREE_DIR="$(mktemp -d)"
+
+          cleanup() {
+            git worktree remove --force "$WORKTREE_DIR" >/dev/null 2>&1 || true
+            rm -rf "$WORKTREE_DIR"
+          }
+          trap cleanup EXIT
+
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain state.json)" ]; then
-            git add state.json
-            git commit -m "chore: update notified article state"
-            git push
-          else
-            echo "state.json に変更なし。コミットをスキップします"
+
+          if [ ! -f state.json ]; then
+            echo "state.json が存在しないため保存をスキップします"
+            exit 0
           fi
+
+          if git ls-remote --exit-code --heads origin "$CACHE_BRANCH" >/dev/null 2>&1; then
+            git fetch --depth=1 origin "$CACHE_BRANCH"
+            git worktree add --detach "$WORKTREE_DIR" FETCH_HEAD
+            if [ -f "$WORKTREE_DIR/state.json" ] && cmp -s state.json "$WORKTREE_DIR/state.json"; then
+              echo "state.json に変更なし。保存をスキップします"
+              exit 0
+            fi
+          else
+            git worktree add --detach "$WORKTREE_DIR" HEAD
+            cd "$WORKTREE_DIR"
+            git switch --orphan "$CACHE_BRANCH"
+            git rm -rf . >/dev/null 2>&1 || true
+            find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+            cd "$GITHUB_WORKSPACE"
+          fi
+
+          cp state.json "$WORKTREE_DIR/state.json"
+          cd "$WORKTREE_DIR"
+          git add state.json
+          git commit -m "chore: update notified article state"
+          git push origin HEAD:"$CACHE_BRANCH"
