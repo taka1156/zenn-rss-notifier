@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/gvatech_blog/articles/604b2e0e800881",
     "https://zenn.dev/e_kaikei/articles/50b8f9d1274492",
     "https://zenn.dev/maropook/articles/efd15744bb7c9d",
     "https://zenn.dev/finatext/articles/481ea4e226b7a3",
     "https://zenn.dev/nobonobo/articles/f121b33b192f87",
-    "https://zenn.dev/otk0118/articles/3uvai9957gxazc",
-    "https://zenn.dev/clopy/articles/oxlint-eslint-migration-js-plugins-try",
-    "https://zenn.dev/koedesk/articles/fable5-remotion-ad-video-from-scratch",
-    "https://zenn.dev/tatsuo_0/articles/todo-app-playwright-pom-fixture",
-    "https://zenn.dev/kmn/articles/f574215b69d54b",
-    "https://zenn.dev/kmn/articles/c03ed64315bbb3",
+    "https://zenn.dev/sonicmoov/articles/ab0d2320b67bcb",
+    "https://zenn.dev/uekibachidan/articles/1203990154bdca",
+    "https://zenn.dev/muramasa0228/articles/2026-07-09-yatagarasu-agent-dashboard",
+    "https://zenn.dev/shiromizuj/articles/fac8f8243fd135",
+    "https://zenn.dev/mollylab/articles/0c1d17339acf99",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
-    "https://zenn.dev/rw_sec/articles/seccamp_exposure",
-    "https://zenn.dev/kanagen/articles/devcontainer-crlf-lf-gitattributes",
-    "https://zenn.dev/1stscratch/articles/49d81caf00c802",
-    "https://zenn.dev/kya12/articles/af05fd6c4a602c",
-    "https://zenn.dev/hisamoto/articles/1f555ce6eb8957"
+    "https://zenn.dev/972697325291316/articles/bfb3dedbf1b410",
+    "https://zenn.dev/var/articles/apple-container-macos-hands-on",
+    "https://zenn.dev/branbran/articles/2f9538ef0301c7",
+    "https://zenn.dev/oasys/articles/ci-cd-intro-4-github-actions-workflow",
+    "https://zenn.dev/oasys/articles/ci-cd-intro-3-github-actions-overview"
   ]
 }
