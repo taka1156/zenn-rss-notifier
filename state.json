@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/e_kaikei/articles/50b8f9d1274492",
     "https://zenn.dev/maropook/articles/efd15744bb7c9d",
     "https://zenn.dev/finatext/articles/481ea4e226b7a3",
     "https://zenn.dev/nobonobo/articles/f121b33b192f87",
     "https://zenn.dev/otk0118/articles/3uvai9957gxazc",
-    "https://zenn.dev/rrr068/articles/b88a755f3fd638",
-    "https://zenn.dev/kei_lifesystem/articles/futari-ai-butler",
-    "https://zenn.dev/clopy/articles/vitest4-browser-mode-visual-regression-log",
-    "https://zenn.dev/kkeeth/articles/pure-function-referential-transparency-idempotency",
-    "https://zenn.dev/fujishu/articles/3b51096b0f81ce",
-    "https://zenn.dev/shiromizuj/articles/f3ad498ad7ad72",
+    "https://zenn.dev/clopy/articles/oxlint-eslint-migration-js-plugins-try",
+    "https://zenn.dev/koedesk/articles/fable5-remotion-ad-video-from-scratch",
+    "https://zenn.dev/tatsuo_0/articles/todo-app-playwright-pom-fixture",
+    "https://zenn.dev/kmn/articles/f574215b69d54b",
+    "https://zenn.dev/kmn/articles/c03ed64315bbb3",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/rw_sec/articles/seccamp_exposure",
+    "https://zenn.dev/kanagen/articles/devcontainer-crlf-lf-gitattributes",
     "https://zenn.dev/1stscratch/articles/49d81caf00c802",
     "https://zenn.dev/kya12/articles/af05fd6c4a602c",
-    "https://zenn.dev/hisamoto/articles/1f555ce6eb8957",
-    "https://zenn.dev/finatext/articles/whole-dev-container",
-    "https://zenn.dev/yuya0408/articles/secom-defect-serving"
+    "https://zenn.dev/hisamoto/articles/1f555ce6eb8957"
   ]
 }
