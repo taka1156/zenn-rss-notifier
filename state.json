@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/sonicmoov/articles/ccd275d21f4a22",
+    "https://zenn.dev/repenguin22/articles/ca54f07e1280c6",
+    "https://zenn.dev/tokium_dev/articles/2026-07-13-otel-tracer-provider",
     "https://zenn.dev/kuroikotech/articles/wheelpad-go-rewrite",
     "https://zenn.dev/kuroikotech/articles/tail-pulse-version-merge",
-    "https://zenn.dev/tad1310/articles/70d14c20263f6f",
-    "https://zenn.dev/wakame_atsushi/articles/0c512954a1698b",
-    "https://zenn.dev/jackchuka/articles/606b55ecc263d0",
+    "https://zenn.dev/53able/articles/5936e409668eb9",
+    "https://zenn.dev/shiromizuj/articles/d4e3c9fe76bcc2",
+    "https://zenn.dev/a1221/articles/url-encode-introduction",
     "https://zenn.dev/zzzzzzz/articles/20b88ef351539d",
     "https://zenn.dev/ryo0127/articles/totalis-introduction",
-    "https://zenn.dev/hokan_blog/articles/20260422-rubykaigi-2026",
-    "https://zenn.dev/niiin/articles/f9c0b8b4d14936",
-    "https://zenn.dev/nakagawarm/articles/918f8ad9854769",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
-    "https://zenn.dev/yuito2742/books/df9c30ebe7bf94",
-    "https://zenn.dev/masuda_masuo/articles/2026-07-11-sunaba-evolution",
-    "https://zenn.dev/o2wsu9/articles/c69f5ee6abcc6d",
-    "https://zenn.dev/tnayuki/articles/zed-devcontainers-apple-container",
-    "https://zenn.dev/dearone/articles/f8aa083c4337eb"
+    "https://zenn.dev/ysk_dev/articles/d42ff2b13a5841",
+    "https://zenn.dev/ysk_dev/articles/088067438b0dfe",
+    "https://zenn.dev/ryo080/articles/170674d0c07543",
+    "https://zenn.dev/takashishibata/articles/f39770e620cf15",
+    "https://zenn.dev/yuito2742/books/df9c30ebe7bf94"
   ]
 }
