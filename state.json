@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/kuroikotech/articles/wheelpad-daemon-opentelemetry",
+    "https://zenn.dev/ponponpon9090/articles/slack-bot-claude-issue-triage",
+    "https://zenn.dev/suwash/articles/stfw_20260711",
     "https://zenn.dev/sonicmoov/articles/ccd275d21f4a22",
     "https://zenn.dev/repenguin22/articles/ca54f07e1280c6",
-    "https://zenn.dev/tokium_dev/articles/2026-07-13-otel-tracer-provider",
-    "https://zenn.dev/kuroikotech/articles/wheelpad-go-rewrite",
-    "https://zenn.dev/kuroikotech/articles/tail-pulse-version-merge",
-    "https://zenn.dev/clopy/articles/bun-sql-sqlite-crud-try",
-    "https://zenn.dev/shuji_bonji/articles/zenn-pdf-verify-mcp",
-    "https://zenn.dev/moriwo_dev_ai/articles/ai-202607131403",
-    "https://zenn.dev/moriwo_dev_ai/articles/ai-202607120206",
-    "https://zenn.dev/irukaboat/articles/42e3d144f5007e",
+    "https://zenn.dev/computer/articles/350e0ad2721a52",
+    "https://zenn.dev/shiromizuj/articles/92ec6e5877a3b7",
+    "https://zenn.dev/a1221/articles/ip-cidr-introduction",
+    "https://zenn.dev/dress_code/articles/78ce46997dfe96",
+    "https://zenn.dev/naokimat/articles/7a7496b0345471",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/onapon/articles/2967ebc15c363b",
+    "https://zenn.dev/suruseas/articles/93aec16eef8792",
     "https://zenn.dev/ysk_dev/articles/d42ff2b13a5841",
     "https://zenn.dev/ysk_dev/articles/088067438b0dfe",
-    "https://zenn.dev/ryo080/articles/170674d0c07543",
-    "https://zenn.dev/takashishibata/articles/f39770e620cf15",
-    "https://zenn.dev/yuito2742/books/df9c30ebe7bf94"
+    "https://zenn.dev/ryo080/articles/170674d0c07543"
   ]
 }
