@@ -1,24 +1,23 @@
 {
   "known_guids": [
-    "https://zenn.dev/c6h1ocao6/articles/7e41873f3a9668",
-    "https://zenn.dev/ponponpon9090/articles/custom-lint-grep-ci",
-    "https://zenn.dev/finatext/articles/158ea33ec5cd0b",
-    "https://zenn.dev/xtm_blog/articles/215bba638dbb25",
-    "https://zenn.dev/xtm_blog/articles/0ee84da1d377f0",
-    "https://zenn.dev/irukaboat/articles/2b0cde9c82ec76",
-    "https://zenn.dev/teru_gift/articles/b39360ca03a9cb",
-    "https://zenn.dev/veripsa/articles/astro-css-pr-impact-ai-agents",
-    "https://zenn.dev/akira_papa/articles/d4225cbbe36248",
-    "https://zenn.dev/fujishu/articles/45f081b436a014",
+    "https://zenn.dev/twsnmp/articles/twsnmp-opentelemetry-guide",
+    "https://zenn.dev/hisa_tech_2973/articles/a4413a6f0e7c7e",
+    "https://zenn.dev/tonbi_attack/articles/27252070886163",
+    "https://zenn.dev/o2wsu9/articles/cloudrun-gcs-mock-server",
+    "https://zenn.dev/remitaid/articles/e33d478dc5d053",
+    "https://zenn.dev/seekseep/articles/react-three-kinds-of-errors",
+    "https://zenn.dev/takna/articles/serena-mcp-getting-started",
+    "https://zenn.dev/mict/articles/7bb3bc1675cb41",
+    "https://zenn.dev/gyugyu86/articles/de3a99143cda88",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/t0xindon/articles/apple-container-zap-dast",
+    "https://zenn.dev/weathernews/articles/c40be230faccbf",
     "https://zenn.dev/stale_orbit/articles/nocobase-2x-upgrade-reality",
     "https://zenn.dev/yamakh/articles/4f08de567b6edc",
-    "https://zenn.dev/myoko32/articles/8d232e153250a4",
-    "https://zenn.dev/estie/articles/df0fd5f0326f9a",
-    "https://zenn.dev/hkame/articles/local-llm-agent-handson"
+    "https://zenn.dev/myoko32/articles/8d232e153250a4"
   ]
 }
