@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/keyem4251/articles/go-lang-interface",
+    "https://zenn.dev/zapabob/articles/zapabob-hermesagent-watchdog-contributor",
     "https://zenn.dev/tsuzuki_s/articles/052da93641728c",
     "https://zenn.dev/tsuzuki_s/articles/755898c7968a05",
     "https://zenn.dev/tsuzuki_s/articles/3af0efacb9c0dd",
-    "https://zenn.dev/tsuzuki_s/articles/af64779d6d59f7",
-    "https://zenn.dev/twsnmp/articles/twsnmp-opentelemetry-guide",
-    "https://zenn.dev/togihara/articles/00a277c2bc36e6",
-    "https://zenn.dev/akira_papa/articles/bf2c8a2884587d",
-    "https://zenn.dev/maronsan/articles/orogami-jp-ogp-line-break",
-    "https://zenn.dev/singularity/articles/clean-code-ci-for-ai-era",
-    "https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide",
+    "https://zenn.dev/halhalhal1/articles/azure-openai-realtime-compat",
+    "https://zenn.dev/nbs_tokyo/articles/typescript-description",
+    "https://zenn.dev/shiromizuj/articles/ff0ac931b6f3c5",
+    "https://zenn.dev/agentmemories/articles/idempotent-publish-receipt",
+    "https://zenn.dev/uhyo/articles/import-lint-intro",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
-    "https://zenn.dev/yushiyamamoto/articles/n8n-opentelemetry-splunk-observability-2026-07",
-    "https://zenn.dev/yamamoshu/articles/ros2-docker-workflow",
-    "https://zenn.dev/munenick/articles/4c9f981f5499fd",
-    "https://zenn.dev/mashharuki/articles/aws_floci-cdk",
-    "https://zenn.dev/fd_ai_teacher/articles/tech-20260716115716-1"
+    "https://zenn.dev/akaringo1109/articles/mcp-supergateway-allowlist",
+    "https://zenn.dev/yukisuna777/articles/new-mac-dev-setup-2026",
+    "https://zenn.dev/hukurou123/articles/251ff42455887a",
+    "https://zenn.dev/imaginarygate/articles/a55ba9dc0b8401",
+    "https://zenn.dev/mono_tec/articles/edgeai-note-05-rzv2h-sdk-docker"
   ]
 }
