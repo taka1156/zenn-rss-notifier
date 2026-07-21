@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/wakame_atsushi/articles/go-concurrency-context-internals",
-    "https://zenn.dev/okamyuji/articles/ai-tests-coverage-blindspot",
-    "https://zenn.dev/tsuzuki_s/articles/61bfbc0520aceb",
-    "https://zenn.dev/keyem4251/articles/go-lang-interface",
-    "https://zenn.dev/zapabob/articles/zapabob-hermesagent-watchdog-contributor",
-    "https://zenn.dev/nadarakainc/articles/ccca60ccf1b34c",
-    "https://zenn.dev/bull/articles/tenkacloud-ai-agent-harness",
-    "https://zenn.dev/singularity/articles/zenn-mulmoclaude-llm-wiki",
-    "https://zenn.dev/shiromizuj/articles/07643bf38b0666",
-    "https://zenn.dev/agentmemories/articles/memory-search-recall-gate",
+    "https://zenn.dev/tazzae999jp/articles/fefba11bc62882",
+    "https://zenn.dev/syommy_program/articles/beadmap-beads-viewer",
+    "https://zenn.dev/nobuo_miura/articles/492121c8d406e0",
+    "https://zenn.dev/req9/articles/7d11c860bb21cf",
+    "https://zenn.dev/calmpm_takahiro/articles/go-lambda-ratelimit",
+    "https://zenn.dev/fujishu/articles/6c6ccb92157c49",
+    "https://zenn.dev/solcube/articles/4194b984b9294c",
+    "https://zenn.dev/keisukenaito/articles/simulation-validation",
+    "https://zenn.dev/lecto/articles/906ae414782f6c",
+    "https://zenn.dev/maro9000/articles/f42b71eb11e1e4",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/suwash/articles/openship_20260719",
+    "https://zenn.dev/schutzz/articles/64050464553bea",
     "https://zenn.dev/schutzz/articles/cb8d3f599cac8b",
     "https://zenn.dev/imaginarygate/articles/c8aefbabb6c2e3",
-    "https://zenn.dev/schutzz/articles/c6aae877fef285",
-    "https://zenn.dev/schutzz/articles/eddc9f0820829c",
-    "https://zenn.dev/tokoro10nu/books/alone_setup_powerdns-auth_on_ubuntu26-04"
+    "https://zenn.dev/schutzz/articles/c6aae877fef285"
   ]
 }
