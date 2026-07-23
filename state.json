@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/tsuzuki_s/articles/0222fb96913d05",
+    "https://zenn.dev/reality_tech/articles/556bf859c90d92",
+    "https://zenn.dev/jinjer_techblog/articles/c96e280f2ebc51",
     "https://zenn.dev/weathernews/articles/861478e3d15540",
     "https://zenn.dev/ren_i24/articles/4678efd14a2803",
-    "https://zenn.dev/railgun0402/articles/5ed9b2ea46cb46",
-    "https://zenn.dev/fd_ai_teacher/articles/tech-20260720094013-1",
-    "https://zenn.dev/quiver/articles/d7bdf991d562e5",
+    "https://zenn.dev/ysaya_dev/articles/express-request-response-source",
+    "https://zenn.dev/m2dw/articles/n8n-ai-cli-loop-stuck-issues",
     "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
     "https://zenn.dev/wintermaples/articles/1f15e63d08be7c",
     "https://zenn.dev/matsutake_prgrm/articles/typescript-jissenhen-kansou",
-    "https://zenn.dev/shiromizuj/articles/1333dcccc34169",
-    "https://zenn.dev/beki/articles/d3724ac43cafa3",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
-    "https://zenn.dev/nkenbou/articles/mdbook-japanese-search-intl-segmenter",
-    "https://zenn.dev/hoshino2501/articles/docker-multistage-build-from-instruction-behavior",
-    "https://zenn.dev/schutzz/articles/97e80b71ed8ab8",
-    "https://zenn.dev/salt2/articles/salt2-os-youki-c318a92b",
-    "https://zenn.dev/schutzz/articles/3fa795617c58a7"
+    "https://zenn.dev/clopy/articles/node-test-randomize-seed-extraction",
+    "https://zenn.dev/schutzz/articles/b0f9532da5336c",
+    "https://zenn.dev/schutzz/articles/6c7861dbc5b49a",
+    "https://zenn.dev/schutzz/articles/8942485836e5b0",
+    "https://zenn.dev/ambikan/articles/ac48c992827f75"
   ]
 }
