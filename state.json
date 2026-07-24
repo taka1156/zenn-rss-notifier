@@ -1,23 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/var/articles/typescript-7-tsgo-benchmark",
     "https://zenn.dev/mtoyokura/articles/961eb7a013d414",
     "https://zenn.dev/tsuzuki_s/articles/82862e53aee750",
     "https://zenn.dev/layerx/articles/f7124d4e761c1f",
     "https://zenn.dev/135yshr/books/go-service-design",
-    "https://zenn.dev/tsuzuki_s/articles/0222fb96913d05",
-    "https://zenn.dev/akari1106/articles/ea85f0a245bb8b",
-    "https://zenn.dev/susie/articles/d4a6a47c461e4d",
-    "https://zenn.dev/tonbi_attack/articles/7c043a2f2ab060",
-    "https://zenn.dev/shiromizuj/articles/e563d0feeaace7",
+    "https://zenn.dev/shiromizuj/articles/db12b53e347071",
+    "https://zenn.dev/komechan/articles/tanstack-form-vs-conform",
+    "https://zenn.dev/nakagawarm/articles/mamepress-target-size-image-compression",
+    "https://zenn.dev/zzzzzzz/articles/d48f33cdb5866d",
+    "https://zenn.dev/zzzzzzz/books/angular-textbook",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/interestic/articles/ae60ac14118441",
     "https://zenn.dev/greff_tech/articles/752f2c997a6294",
     "https://zenn.dev/stale_orbit/articles/nocobase-2x-jsblock-offline",
     "https://zenn.dev/schutzz/articles/dccaa8c0c8fe2a",
-    "https://zenn.dev/clopy/articles/node-test-randomize-seed-extraction",
-    "https://zenn.dev/schutzz/articles/b0f9532da5336c"
+    "https://zenn.dev/clopy/articles/node-test-randomize-seed-extraction"
   ]
 }
