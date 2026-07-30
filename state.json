@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/tsuzuki_s/articles/5c3698d31f308c",
+    "https://zenn.dev/m_sakaaai/articles/a5935434a9946b",
     "https://zenn.dev/midry3125/articles/31b3aa4d9a614a",
     "https://zenn.dev/myotz/articles/3c84714c9b96da",
     "https://zenn.dev/m_sakaaai/articles/7ee6b4ab4a5f48",
-    "https://zenn.dev/crgimenes/articles/checksum-com-golang",
-    "https://zenn.dev/mabui/articles/ai-iac-terraform-guard",
+    "https://zenn.dev/sho_ce_engineer/articles/25df0f08e4536a",
+    "https://zenn.dev/hirodeath/articles/trpc-share-types-next-expo",
+    "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
+    "https://zenn.dev/sabiuyack/articles/d1zzle-cloudflare-d1-orm",
     "https://zenn.dev/matsutake_prgrm/articles/vite-template-leftover-config-review",
-    "https://zenn.dev/sonicmoov/articles/cloudflare-personal-dev",
-    "https://zenn.dev/ukintech/articles/portfolio-journal-free-tools",
-    "https://zenn.dev/shiromizuj/articles/62dcf9b22356d7",
-    "https://zenn.dev/susie/articles/e537bfc242a8cf",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/yamato_snow/articles/docker-trio-complete-guide",
+    "https://zenn.dev/fd_ai_teacher/articles/tech-20260728154211-1",
     "https://zenn.dev/phpmyadmin/articles/dgx-spark-katago-tuning",
     "https://zenn.dev/suruseas/articles/786ae0a8866501",
-    "https://zenn.dev/tazzae999jp/articles/484302ccd6bb5a",
-    "https://zenn.dev/yhay81/articles/202607-otel-collector-persistent-queue",
-    "https://zenn.dev/kuroikotech/articles/docker-to-podman-lazydocker"
+    "https://zenn.dev/tazzae999jp/articles/484302ccd6bb5a"
   ]
 }
