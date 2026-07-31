@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/jinjer_techblog/articles/c5213a5f2767a2",
     "https://zenn.dev/tsuzuki_s/articles/429397c8fad430",
     "https://zenn.dev/baleenstudio/articles/b960388d94a6f0",
     "https://zenn.dev/tsuzuki_s/articles/5c3698d31f308c",
     "https://zenn.dev/m_sakaaai/articles/a5935434a9946b",
-    "https://zenn.dev/midry3125/articles/31b3aa4d9a614a",
-    "https://zenn.dev/shake0903/articles/2b14af65343c6e",
-    "https://zenn.dev/y4edd/articles/914d054cda2839",
-    "https://zenn.dev/bo_yakitarako/articles/dc69348e7fa454",
-    "https://zenn.dev/singularitylabs/articles/27cde379929679",
-    "https://zenn.dev/singularitylabs/articles/e8e1418847bec8",
+    "https://zenn.dev/surugawannoebi/articles/ai-knowledge-needs-pull-requests",
+    "https://zenn.dev/matsutake_prgrm/articles/test-how-much-to-write",
+    "https://zenn.dev/1stscratch/articles/8ad8975a4adbb5",
+    "https://zenn.dev/hirodeath/articles/migrate-node-sqlite-to-d1",
+    "https://zenn.dev/shiromizuj/articles/401d5a3fdd59f3",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
     "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/idnet/articles/68ef92a1962e89",
     "https://zenn.dev/sosa/articles/dify-docker-secretkey",
     "https://zenn.dev/headwaters/articles/a8da60fcbdbfb0",
     "https://zenn.dev/yamato_snow/articles/docker-trio-complete-guide",
-    "https://zenn.dev/fd_ai_teacher/articles/tech-20260728154211-1",
-    "https://zenn.dev/phpmyadmin/articles/dgx-spark-katago-tuning"
+    "https://zenn.dev/fd_ai_teacher/articles/tech-20260728154211-1"
   ]
 }
