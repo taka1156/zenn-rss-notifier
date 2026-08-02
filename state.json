@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/m_sakaaai/articles/54e37596b8da77",
     "https://zenn.dev/nozomi720/articles/manifold-mcp-gateway",
     "https://zenn.dev/okamyuji/articles/slack-skeleton-go-htmx",
     "https://zenn.dev/hidetzu/articles/verigen-generate-verify-loop",
     "https://zenn.dev/hisa_tech_2973/articles/66aada00d0e727",
-    "https://zenn.dev/cyberheatradar/articles/ee8a5ac6882391",
+    "https://zenn.dev/aya_koto/articles/b3fa316a14595a",
+    "https://zenn.dev/hitori_company/articles/602835ab26d977",
+    "https://zenn.dev/tanishi_zukka/articles/jin-local-multi-agent-cli",
+    "https://zenn.dev/mict/articles/e84b4efe0ace83",
     "https://zenn.dev/yasutomo7974/articles/typescript-hello-world-experience",
-    "https://zenn.dev/the_exile/articles/cloudflare-workers-hono-otel-honeycomb",
-    "https://zenn.dev/m_sakaaai/books/08d5e316f59d38",
-    "https://zenn.dev/shiromizuj/articles/f3234b1ccafb60",
-    "https://zenn.dev/zzzzzzz/articles/9b2e57a1c48d3f",
+    "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
-    "https://zenn.dev/t_ujiie/articles/1f4136a25b95ac",
+    "https://zenn.dev/noayasu/articles/56391b63e7f6da",
     "https://zenn.dev/oni_ch_dev/articles/docker-single-container-httpd-tomcat",
     "https://zenn.dev/wai_jiji/articles/677c78a17f1eb6",
     "https://zenn.dev/0msys/articles/c163bd4fe40cb8",
-    "https://zenn.dev/halhalhal1/articles/voice-ai-mishear-debug",
-    "https://zenn.dev/st_systems/articles/2e9477d3bff353"
+    "https://zenn.dev/halhalhal1/articles/voice-ai-mishear-debug"
   ]
 }
