@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/norman6464/books/clean-architecture-go",
+    "https://zenn.dev/norman6464/articles/go-struct-memory",
+    "https://zenn.dev/norman6464/articles/go-clean-architecture-lint",
+    "https://zenn.dev/norman6464/articles/gin-two-contexts",
     "https://zenn.dev/sea_turt1e/articles/go-kanjiconv",
-    "https://zenn.dev/tsuzuki_s/articles/1f41c5275fbe7f",
-    "https://zenn.dev/wakame_atsushi/articles/7063864c599075",
-    "https://zenn.dev/norman6464/articles/sqlc-introduction",
-    "https://zenn.dev/norman6464/articles/go-pointer-receiver",
-    "https://zenn.dev/locu/articles/86b1bc5d24d454",
-    "https://zenn.dev/a1221/articles/ddl-builder-implementation",
-    "https://zenn.dev/nxted_sapporo/articles/6e0d37d0904811",
-    "https://zenn.dev/aulvem/articles/f5a49221aa35fb",
-    "https://zenn.dev/vigilantbee/articles/0be9614215eb56",
+    "https://zenn.dev/atsekkei/articles/cloudflare-email-obfuscation-spa",
+    "https://zenn.dev/rivetgraph26/articles/bf4d6ebf244169",
+    "https://zenn.dev/yasmro/articles/schatten-design-system-v1",
+    "https://zenn.dev/regmarmcem/articles/salesmgmt-static-architecture-gates",
+    "https://zenn.dev/regmarmcem/articles/salesmgmt-openapi-contract-mesh",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
-    "https://zenn.dev/schutzz/articles/551b9a709324c9",
-    "https://zenn.dev/orisend/articles/local-s3-storage-with-rustfs",
-    "https://zenn.dev/kyomutsugoroad/articles/25761d2d8528ab",
-    "https://zenn.dev/playpark/articles/oauth-cli-silent-credential-failure",
-    "https://zenn.dev/hoshino2501/articles/gitlab-ce-docker-macos"
+    "https://zenn.dev/kawarin_origami/articles/docker-setup-20260804",
+    "https://zenn.dev/st_systems/articles/a2374d9125a269",
+    "https://zenn.dev/satoru_o/articles/aff9b25d2c0682",
+    "https://zenn.dev/kosuke0321/articles/997c3424c70240",
+    "https://zenn.dev/schutzz/articles/551b9a709324c9"
   ]
 }
