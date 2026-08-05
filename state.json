@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/hidetzu/articles/verigen-strict-verifier",
+    "https://zenn.dev/twsnmp/articles/twsnmpfk-v2-ai-guide",
     "https://zenn.dev/norman6464/articles/go-testing-basics",
     "https://zenn.dev/norman6464/articles/go-error-handling-basics",
     "https://zenn.dev/wntk/articles/a7c1aade214037",
-    "https://zenn.dev/ekusiadadus/articles/isutools-isucon-profiler",
-    "https://zenn.dev/mabui/articles/iac-guard-llm-separation",
-    "https://zenn.dev/shiromizuj/articles/4d6d3a21732a31",
-    "https://zenn.dev/halhalhal1/articles/typescript-porting-language-notes",
-    "https://zenn.dev/ukintech/articles/nextjs-og-image-font-subset",
-    "https://zenn.dev/devnestio/articles/devnestio-ts-utility-types-ref",
-    "https://zenn.dev/naonao0012/articles/bcef3854497f05",
+    "https://zenn.dev/withnextdotnet/articles/jsxcore-jsx-view-engine",
+    "https://zenn.dev/shuji_bonji/articles/facturx-pdfa3-uk-france-einvoicing",
+    "https://zenn.dev/taitech/articles/pseudo-language-interpreter",
+    "https://zenn.dev/raccoon0213/articles/202d3a7bd383ad",
+    "https://zenn.dev/quest_board/articles/507e7edc0532d5",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
     "https://zenn.dev/kcn/articles/16addd34501b6d",
     "https://zenn.dev/kcn/articles/f8cc9e53d3756a",
-    "https://zenn.dev/kawarin_origami/articles/docker-setup-20260804",
-    "https://zenn.dev/st_systems/articles/a2374d9125a269",
-    "https://zenn.dev/satoru_o/articles/aff9b25d2c0682",
-    "https://zenn.dev/kosuke0321/articles/997c3424c70240",
-    "https://zenn.dev/schutzz/articles/551b9a709324c9"
+    "https://zenn.dev/kmdkmd/articles/hadoop-vs-spark-iterative-benchmark",
+    "https://zenn.dev/satoru_o/articles/c75b27b16b0fd6",
+    "https://zenn.dev/ttake/articles/bf81019155c465",
+    "https://zenn.dev/aymaymaym/articles/50af29550c270a",
+    "https://zenn.dev/kawarin_origami/articles/docker-setup-20260804"
   ]
 }
