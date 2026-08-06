@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/hidetzu/articles/verigen-strict-verifier",
-    "https://zenn.dev/twsnmp/articles/twsnmpfk-v2-ai-guide",
-    "https://zenn.dev/norman6464/articles/go-testing-basics",
-    "https://zenn.dev/norman6464/articles/go-error-handling-basics",
-    "https://zenn.dev/wntk/articles/a7c1aade214037",
-    "https://zenn.dev/yakitu/articles/6bf9dd8cca7231",
-    "https://zenn.dev/nadarakainc/articles/6d3a2ea81122ef",
-    "https://zenn.dev/lbddk/articles/8381fec4ab6f44",
-    "https://zenn.dev/sobani_dev/articles/a41f30c1b8755d",
-    "https://zenn.dev/aidevdoer/articles/b9da08f867ad3e",
+    "https://zenn.dev/ishizakahiroshi/articles/20260805-many-ai-incident-mvp-redesign",
+    "https://zenn.dev/mutton/articles/b0e17496a34b13",
+    "https://zenn.dev/crgimenes/articles/crg-kutta-project",
+    "https://zenn.dev/crgimenes/articles/crg-glaze-project",
+    "https://zenn.dev/reality_tech/articles/d4858623c73a6b",
+    "https://zenn.dev/shiromizuj/articles/5964d50ed57256",
+    "https://zenn.dev/katsuo_dev/articles/202608-ai-payment-review-bugs",
+    "https://zenn.dev/kikuvi/articles/9b7173868c8bef",
+    "https://zenn.dev/kapsel/articles/notion-approval-reminders",
+    "https://zenn.dev/kapsel/articles/late-payment-notice",
+    "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
-    "https://zenn.dev/kcn/articles/16addd34501b6d",
+    "https://zenn.dev/nakamurus/articles/59bd5a661a1d16",
+    "https://zenn.dev/hunter_66/articles/3cd94e052ada23",
     "https://zenn.dev/njomote/articles/d77462b12338e2",
     "https://zenn.dev/kmdkmd/articles/hadoop-vs-spark-iterative-benchmark",
-    "https://zenn.dev/satoru_o/articles/c75b27b16b0fd6",
-    "https://zenn.dev/ttake/articles/bf81019155c465",
-    "https://zenn.dev/aymaymaym/articles/50af29550c270a"
+    "https://zenn.dev/satoru_o/articles/c75b27b16b0fd6"
   ]
 }
