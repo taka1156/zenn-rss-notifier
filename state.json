@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/takaaki_s/articles/dd999cde644a35",
     "https://zenn.dev/norman6464/articles/go-fake-codegen",
     "https://zenn.dev/finatext/articles/908a8326c0a861",
     "https://zenn.dev/crgimenes/articles/crg-neko-project",
     "https://zenn.dev/crgimenes/articles/benchmark-retornos-nomeados-vs-explicitos-go",
-    "https://zenn.dev/halhalhal1/articles/lambda-microvms-go-firsttry",
-    "https://zenn.dev/satson_j/articles/mcp-lab-01-jma-stateless",
-    "https://zenn.dev/zakapanda11/articles/224d8836322a4c",
-    "https://zenn.dev/shiromizuj/articles/6e9c363cd28fc1",
-    "https://zenn.dev/singularitylabs/articles/24fa3e3a38b774",
-    "https://zenn.dev/yihui/articles/2b9b171cb35050",
+    "https://zenn.dev/kaz_meishibako/articles/d6b827567066b3",
+    "https://zenn.dev/tanishi_z/articles/03-jin-dashboard-sse-svg-design",
+    "https://zenn.dev/pipipipipi/articles/661b28da670728",
+    "https://zenn.dev/feedge/articles/ai-translation-and-summary-implementation",
+    "https://zenn.dev/tanishi_z/articles/01-kurari-team-workspace-devlog",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
+    "https://zenn.dev/azishii/articles/9c65946a09573e",
     "https://zenn.dev/stale_orbit/articles/nocobase-2x-docker-plugin-dev",
     "https://zenn.dev/bamtech1904/articles/20260731_docker-desktop-colima-pitfalls",
     "https://zenn.dev/peipei/articles/f900c616a8a2e0",
-    "https://zenn.dev/schutzz/articles/c093e94f0290c0",
-    "https://zenn.dev/daraenglish/articles/2335252762f9bd"
+    "https://zenn.dev/schutzz/articles/c093e94f0290c0"
   ]
 }
