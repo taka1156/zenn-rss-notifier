@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/m_sakaaai/articles/d8b797db229250",
+    "https://zenn.dev/rirua1719/articles/cdk8s-ingress-2-gatewayapi-2",
+    "https://zenn.dev/rirua1719/articles/cdk8s-ingress-2-gatewayapi-1",
     "https://zenn.dev/snknsk/articles/cloudrun-web-worker-split",
     "https://zenn.dev/takaaki_s/articles/dd999cde644a35",
-    "https://zenn.dev/norman6464/articles/go-fake-codegen",
-    "https://zenn.dev/finatext/articles/908a8326c0a861",
-    "https://zenn.dev/crgimenes/articles/crg-neko-project",
     "https://zenn.dev/refirst11/articles/6871cd19f2dfe8",
     "https://zenn.dev/shiromizuj/articles/47d200cf43a86a",
     "https://zenn.dev/yanami/articles/3c45427bf6424c",
     "https://zenn.dev/kaz_meishibako/articles/d6b827567066b3",
     "https://zenn.dev/tanishi_z/articles/03-jin-dashboard-sse-svg-design",
+    "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
+    "https://zenn.dev/totto2727/articles/ec776fed8e88a8",
+    "https://zenn.dev/ivyxon/articles/macos-freeze-disk-docker-timemachine",
     "https://zenn.dev/satoru_o/articles/f1706abbca3643",
     "https://zenn.dev/norman6464/articles/multi-staging-github-actions",
-    "https://zenn.dev/azoom_tech/articles/9c65946a09573e",
-    "https://zenn.dev/stale_orbit/articles/nocobase-2x-docker-plugin-dev",
-    "https://zenn.dev/bamtech1904/articles/20260731_docker-desktop-colima-pitfalls"
+    "https://zenn.dev/stale_orbit/articles/nocobase-2x-docker-plugin-dev"
   ]
 }
