@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/hsmt_t/articles/d23c72b903b0a4",
     "https://zenn.dev/public_note/articles/0d23ed20c15d27",
     "https://zenn.dev/okamyuji/articles/local-llm-agent-open-weight-usecases",
     "https://zenn.dev/kyoheitaniguchi/articles/aebf71979e6be5",
     "https://zenn.dev/norman6464/articles/orm-sql-antipatterns",
-    "https://zenn.dev/nozomi720/articles/webhook-over-websocket",
+    "https://zenn.dev/sibecat_tech/articles/photo-not-stored-calorie-app",
+    "https://zenn.dev/fujinodev/articles/db2a141c79b2b8",
+    "https://zenn.dev/ukintech/articles/rakuten-dividend-csv-tool",
+    "https://zenn.dev/amayann/books/ai-driven-dev-cursor",
     "https://zenn.dev/seikunsample/books/fcd6600c0c421d",
-    "https://zenn.dev/aya_koto/articles/dbb68083a0a536",
-    "https://zenn.dev/shoma_endo/articles/20260727-ddb78f09",
-    "https://zenn.dev/dokokade/articles/3d034de9f83f60",
-    "https://zenn.dev/dev_ctun/articles/bluesky-video-upload-pitfalls",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/contour_gara/articles/fbc7b9d157bbe2",
-    "https://zenn.dev/nemunyan/articles/e6e78c3659d665",
-    "https://zenn.dev/toukadc/articles/e9f2cb60d02754",
-    "https://zenn.dev/schutzz/articles/ad807aea04779b",
-    "https://zenn.dev/totto2727/articles/ec776fed8e88a8"
+    "https://zenn.dev/takkuhiro/articles/terminal-bench-isolation-tradeoff",
+    "https://zenn.dev/henohenon/articles/mac-storage-docker-bomb",
+    "https://zenn.dev/yoshit0oo/articles/mcp-oauth21-keycloak",
+    "https://zenn.dev/schutzz/articles/517947b66eba09",
+    "https://zenn.dev/contour_gara/articles/fbc7b9d157bbe2"
   ]
 }
