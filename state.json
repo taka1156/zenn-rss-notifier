@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/mabui/articles/go-hcl-static-analysis",
+    "https://zenn.dev/bswebdev/articles/nest-to-go-01-what-node-allowed",
+    "https://zenn.dev/kamihork/articles/ent-privacy-fail-open",
     "https://zenn.dev/hsmt_t/articles/d23c72b903b0a4",
     "https://zenn.dev/public_note/articles/0d23ed20c15d27",
-    "https://zenn.dev/okamyuji/articles/local-llm-agent-open-weight-usecases",
-    "https://zenn.dev/kyoheitaniguchi/articles/aebf71979e6be5",
-    "https://zenn.dev/norman6464/articles/orm-sql-antipatterns",
+    "https://zenn.dev/sasapiyo/articles/yorox-release",
+    "https://zenn.dev/ryoku4/articles/55eaf1f6943496",
+    "https://zenn.dev/bridge_dw/articles/81ea7265247407",
     "https://zenn.dev/kapsel/articles/notion-client-progress",
     "https://zenn.dev/a1221/articles/json-schema-zod-implementation",
-    "https://zenn.dev/gis/articles/midori-gis-team-recruit",
-    "https://zenn.dev/tkglobalos/articles/ai-driven-finos",
-    "https://zenn.dev/aya_koto/articles/0965b621be0fb5",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/amam96/articles/flutter-web-canvaskit-vs-skwasm",
+    "https://zenn.dev/malzy/articles/c596d61da367d6",
+    "https://zenn.dev/tanakari/articles/2026-08-08_setup-wsl-docker",
     "https://zenn.dev/surugawannoebi/articles/kahanyaku-self-hosted-workflow",
-    "https://zenn.dev/levtech/articles/dont-upgrade-rancher-desktop",
-    "https://zenn.dev/hchwr01/articles/3eb66618282e17",
-    "https://zenn.dev/yutaka8484/articles/kobayashi-20260803-ai-tool-management-strate",
-    "https://zenn.dev/cilly/articles/claude-code-worktree-isolated-env"
+    "https://zenn.dev/levtech/articles/dont-upgrade-rancher-desktop"
   ]
 }
