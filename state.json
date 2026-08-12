@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/yumosx/articles/b249f1bc5c2eb5",
+    "https://zenn.dev/wakame_atsushi/articles/2206c89816beea",
+    "https://zenn.dev/finatext/articles/cddec190c6186b",
+    "https://zenn.dev/otakakot/articles/693a8367fd5f01",
     "https://zenn.dev/nobuo_miura/articles/77cac5cd0120ae",
-    "https://zenn.dev/fkrou/articles/78b6f0dabcf619",
-    "https://zenn.dev/linux_club/articles/fbcb6b2f94207b",
-    "https://zenn.dev/mabui/articles/go-hcl-static-analysis",
-    "https://zenn.dev/bswebdev/articles/nest-to-go-01-what-node-allowed",
-    "https://zenn.dev/nyaomaru/articles/is-kit-50-stars-production",
-    "https://zenn.dev/danilapryadko/articles/bb4f2304ff5a4d",
-    "https://zenn.dev/amayann/articles/ai-driven-dev-cursor-creation",
-    "https://zenn.dev/zuma_zuma/articles/282116ea21e131",
-    "https://zenn.dev/miraigent/articles/ai-model-change-regression-checklist",
+    "https://zenn.dev/matsutake_prgrm/articles/plate-step-from-inventory",
+    "https://zenn.dev/porota/articles/99e1f5570d8231",
+    "https://zenn.dev/ktg/articles/zenread-reader-mode",
+    "https://zenn.dev/mocha_engineer/books/ai-ui-review",
+    "https://zenn.dev/shiromizuj/articles/3edacd905d6f73",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/otakakot/articles/693a8367fd5f01",
-    "https://zenn.dev/tekitou/articles/cb58e9f2250b4a",
     "https://zenn.dev/amam96/articles/flutter-web-wasm-silent-fallback",
     "https://zenn.dev/hrak0x59/articles/moneyprinterturbo-docker-mac-guide",
-    "https://zenn.dev/nu0044/articles/jaehong-web-application-structure"
+    "https://zenn.dev/nu0044/articles/jaehong-web-application-structure",
+    "https://zenn.dev/the_exile/articles/docker-sandboxes-ai-agent",
+    "https://zenn.dev/ozoz/books/d1c7ae3a071b84"
   ]
 }
