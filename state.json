@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/naoyuki1212/articles/20260812-go-evangelism",
+    "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+    "https://zenn.dev/okssusucha/articles/20260709-ai-found-bugs-cloudflare-circl",
     "https://zenn.dev/yumosx/articles/b249f1bc5c2eb5",
     "https://zenn.dev/wakame_atsushi/articles/2206c89816beea",
-    "https://zenn.dev/finatext/articles/cddec190c6186b",
-    "https://zenn.dev/otakakot/articles/693a8367fd5f01",
-    "https://zenn.dev/nobuo_miura/articles/77cac5cd0120ae",
+    "https://zenn.dev/ukintech/articles/nisa-simulator-canonical-lesson",
+    "https://zenn.dev/lru/articles/astro_inline_ts",
+    "https://zenn.dev/kittybbit/articles/2067b0156124e2",
     "https://zenn.dev/matsutake_prgrm/articles/plate-step-from-inventory",
     "https://zenn.dev/porota/articles/99e1f5570d8231",
-    "https://zenn.dev/ktg/articles/zenread-reader-mode",
-    "https://zenn.dev/mocha_engineer/books/ai-ui-review",
-    "https://zenn.dev/shiromizuj/articles/3edacd905d6f73",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/asopitech/articles/20260724-moonbit-wasm-langs_1",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/amam96/articles/flutter-web-wasm-silent-fallback",
-    "https://zenn.dev/hrak0x59/articles/moneyprinterturbo-docker-mac-guide",
-    "https://zenn.dev/nu0044/articles/jaehong-web-application-structure",
-    "https://zenn.dev/the_exile/articles/docker-sandboxes-ai-agent",
-    "https://zenn.dev/ozoz/books/d1c7ae3a071b84"
+    "https://zenn.dev/momohamchan/articles/5f9ee89d78b659",
+    "https://zenn.dev/skiyaki_dev/articles/39b40941412ab9",
+    "https://zenn.dev/otakakot/articles/693a8367fd5f01",
+    "https://zenn.dev/tekitou/articles/cb58e9f2250b4a",
+    "https://zenn.dev/amam96/articles/flutter-web-wasm-silent-fallback"
   ]
 }
