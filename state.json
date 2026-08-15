@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/jovid/articles/showgi-ai-knows-when-to-interrupt",
     "https://zenn.dev/kitakita3110/articles/b8f36e1f7d904c",
     "https://zenn.dev/snaga/articles/2026-08-14-doctools-cli-agent-native-go",
     "https://zenn.dev/saku0512/articles/28afc5347752f5",
     "https://zenn.dev/mickamy/articles/0a22c458c8a163",
-    "https://zenn.dev/gvatech_blog/articles/e0573c32ac59e7",
-    "https://zenn.dev/sktt_panda/books/browser-file-tools",
-    "https://zenn.dev/novexar/articles/tenavis-power-platform-audit-cli",
-    "https://zenn.dev/imaginarygate/articles/95e549e3e6a9ac",
-    "https://zenn.dev/m_sakaaai/articles/c26209a74f5695",
-    "https://zenn.dev/r_inowa/articles/hermes-agent-10-alpaca-gotchas",
+    "https://zenn.dev/clopy/articles/typescript7-tsc-bin-collision-log",
+    "https://zenn.dev/toshipon/articles/cloudflare-tunnel-workers-vpc",
+    "https://zenn.dev/appleple/articles/elasticsearch-auditlog-fuzzy-search",
+    "https://zenn.dev/amu_lab/articles/deepseek-harness-local-llm-ollama-guide-2026",
+    "https://zenn.dev/conlion/articles/57c9aabe7d7b3e",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
     "https://zenn.dev/kcn/articles/573e2f2e8a5cec",
+    "https://zenn.dev/evakichi/articles/8907c028c056dc",
+    "https://zenn.dev/hungry830/articles/17c675cbd9678a",
+    "https://zenn.dev/fd_ai_teacher/articles/tech-20260813030456-1",
     "https://zenn.dev/momohamchan/articles/5f9ee89d78b659",
-    "https://zenn.dev/skiyaki_dev/articles/39b40941412ab9",
-    "https://zenn.dev/otakakot/articles/693a8367fd5f01",
-    "https://zenn.dev/tekitou/articles/cb58e9f2250b4a",
-    "https://zenn.dev/amam96/articles/flutter-web-wasm-silent-fallback"
+    "https://zenn.dev/skiyaki_dev/articles/39b40941412ab9"
   ]
 }
