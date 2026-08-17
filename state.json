@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/finatext/articles/950bb849-a05d-43e2-839d-9a154e60b5c3",
     "https://zenn.dev/alecjp02/articles/mc-router-transfer-architecture",
     "https://zenn.dev/kizashi_labs/articles/2d1347cbb26530",
     "https://zenn.dev/kipcop/articles/b42-go-08-index",
     "https://zenn.dev/yousaku/articles/c892dd7a564478",
-    "https://zenn.dev/chaokovsky/articles/openbao-postgresql-dynamic-credentials",
-    "https://zenn.dev/bule/articles/e75fc19cfd0b70",
-    "https://zenn.dev/tomatomerde/articles/itaiji-normalize-mj-shrink-map",
-    "https://zenn.dev/fd_ai_teacher/articles/tech-20260816020131-1",
-    "https://zenn.dev/ma2no4413/articles/298ef3273c2528",
-    "https://zenn.dev/cutepome/articles/8548edf34c8bca",
+    "https://zenn.dev/amagi019/articles/d6c31744ffaf46",
+    "https://zenn.dev/quartermaster/articles/ad392e77c61c9a",
+    "https://zenn.dev/ma2no4413/articles/cloudflare-mcp-five-pitfalls",
+    "https://zenn.dev/takeshi0518/articles/50cdc1278af32a",
+    "https://zenn.dev/zzzzzzz/articles/2c569b1fdaf0bf",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/sohohold/articles/sakura-apprun-pr-preview",
-    "https://zenn.dev/hardtrap/articles/20260815-0-tailscale-serve-obsidian-livesync",
-    "https://zenn.dev/reo_engineer/articles/5e1d2d1427b97f",
-    "https://zenn.dev/toroby/articles/cd93805fd5774e",
-    "https://zenn.dev/hrtki/articles/docker-desktop-kubernetes-error"
+    "https://zenn.dev/akihide/articles/de211158e0878d",
+    "https://zenn.dev/akihide/articles/c10b637cc71a2f",
+    "https://zenn.dev/mskbhd/articles/lab-269-docker-sandboxes-sbx-claude-co",
+    "https://zenn.dev/akihide/articles/f6fc81bc9a9b4e",
+    "https://zenn.dev/st_systems/articles/3050b015a4fa2c"
   ]
 }
