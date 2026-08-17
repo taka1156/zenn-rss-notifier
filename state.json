@@ -1,23 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/alecjp02/articles/mc-router-transfer-architecture",
     "https://zenn.dev/kizashi_labs/articles/2d1347cbb26530",
     "https://zenn.dev/kipcop/articles/b42-go-08-index",
     "https://zenn.dev/yousaku/articles/c892dd7a564478",
     "https://zenn.dev/chaokovsky/articles/openbao-postgresql-dynamic-credentials",
-    "https://zenn.dev/ekusiadadus/articles/isucon13-445k-with-isutools",
-    "https://zenn.dev/kannkyo/articles/zenn-mcp-zenn-cli-wrapper",
-    "https://zenn.dev/ktg/articles/ghostjob-ghost-scoring",
-    "https://zenn.dev/taitech/articles/sql-engine-for-evaluation-order",
-    "https://zenn.dev/kannkyo/articles/e-gov-law-mcp-server-guide",
-    "https://zenn.dev/kodomo_news/articles/12-japanese-holidays",
+    "https://zenn.dev/bule/articles/e75fc19cfd0b70",
+    "https://zenn.dev/tomatomerde/articles/itaiji-normalize-mj-shrink-map",
+    "https://zenn.dev/fd_ai_teacher/articles/tech-20260816020131-1",
+    "https://zenn.dev/ma2no4413/articles/298ef3273c2528",
+    "https://zenn.dev/cutepome/articles/8548edf34c8bca",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/sohohold/articles/sakura-apprun-pr-preview",
+    "https://zenn.dev/hardtrap/articles/20260815-0-tailscale-serve-obsidian-livesync",
+    "https://zenn.dev/reo_engineer/articles/5e1d2d1427b97f",
     "https://zenn.dev/toroby/articles/cd93805fd5774e",
-    "https://zenn.dev/hrtki/articles/docker-desktop-kubernetes-error",
-    "https://zenn.dev/norman6464/articles/postgresql-internals-handson",
-    "https://zenn.dev/playpark/articles/docker-container-health-check-stderr-trap"
+    "https://zenn.dev/hrtki/articles/docker-desktop-kubernetes-error"
   ]
 }
