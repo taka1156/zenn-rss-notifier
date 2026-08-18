@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/mabui/articles/rag-lexical-then-embedding",
+    "https://zenn.dev/abalol/articles/ef518139af593c",
+    "https://zenn.dev/kuroikotech/articles/hypr-connect-hyprland-remote-go",
     "https://zenn.dev/finatext/articles/950bb849-a05d-43e2-839d-9a154e60b5c3",
     "https://zenn.dev/alecjp02/articles/mc-router-transfer-architecture",
-    "https://zenn.dev/kizashi_labs/articles/2d1347cbb26530",
-    "https://zenn.dev/kipcop/articles/b42-go-08-index",
-    "https://zenn.dev/yousaku/articles/c892dd7a564478",
-    "https://zenn.dev/sjh9714/articles/0f1dd02819207f",
-    "https://zenn.dev/lpdoctor_jp/articles/6a9afb137dab7a",
-    "https://zenn.dev/danilapryadko/articles/c9ee183b8248a6",
-    "https://zenn.dev/akihide/articles/5a008e21a7e0e9",
-    "https://zenn.dev/amagi019/articles/wip-task-dependency-visualization",
+    "https://zenn.dev/kapsel/articles/notion-database-howto",
+    "https://zenn.dev/ukintech/articles/jsx-japanese-stray-space",
+    "https://zenn.dev/tyumugiko/articles/19dfb7984bd07c",
+    "https://zenn.dev/ktg/articles/quiethours-google-calendar-overlay",
+    "https://zenn.dev/tomatomerde/articles/jp-address-romaji-offline",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/tsuzudev05/articles/claude-code-postgres-hostname-fix",
+    "https://zenn.dev/fagai/articles/dec261ee3ac315",
+    "https://zenn.dev/spookies/articles/238e543fb9a046",
     "https://zenn.dev/xtm_blog/articles/b9993fe1d72b17",
-    "https://zenn.dev/aco_dog/articles/az-acr-build-windows-crash",
-    "https://zenn.dev/aco_dog/books/serverless-gpu-tts-azure",
-    "https://zenn.dev/miggy/articles/afe5e4161d94ff",
-    "https://zenn.dev/akihide/articles/de211158e0878d"
+    "https://zenn.dev/aco_dog/articles/az-acr-build-windows-crash"
   ]
 }
