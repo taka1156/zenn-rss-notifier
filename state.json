@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/m_sakaaai/articles/2b6e9d1f11aeb3",
     "https://zenn.dev/hsmt_t/articles/52632f96e78dc8",
     "https://zenn.dev/tsuzudev05/articles/go-testcontainers-postgres",
     "https://zenn.dev/kipcop/articles/b42-go-09-transaction",
     "https://zenn.dev/ekusiadadus/articles/isucon-past-problems-guide",
-    "https://zenn.dev/tetsumaru_tech/articles/mui-datagrid-server-pagination-sorting",
-    "https://zenn.dev/m2dw/articles/n8n-ai-cli-loop-conditions",
-    "https://zenn.dev/izumuzui/articles/be85c0c18ef341",
-    "https://zenn.dev/ma2no4413/articles/mcp-tool-design-csv-argument",
-    "https://zenn.dev/kiyoma/articles/b595c2094d023f",
+    "https://zenn.dev/snknsk/articles/adk-go-agent-review-practice",
+    "https://zenn.dev/tomatomerde/articles/three-jp-text-libraries",
+    "https://zenn.dev/agentmemories/articles/approval-payload-hash-binding",
+    "https://zenn.dev/7nohe/articles/agents-on-guren-benchmark",
+    "https://zenn.dev/jinsights/articles/6686f203fc45b4",
+    "https://zenn.dev/kodomo_news/articles/25-jsonld-builder",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/nosho/articles/05ef150a0cc314",
     "https://zenn.dev/norman6464/articles/postgresql-query-processing",
     "https://zenn.dev/sepi/articles/multica-ai-agent-selfhost",
     "https://zenn.dev/ykbone/articles/202608-docker-ai-agent-sandboxes",
-    "https://zenn.dev/tsuzudev05/articles/claude-code-postgres-hostname-fix",
-    "https://zenn.dev/fagai/articles/dec261ee3ac315"
+    "https://zenn.dev/tsuzudev05/articles/claude-code-postgres-hostname-fix"
   ]
 }
