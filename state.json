@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/mabui/articles/rag-lexical-then-embedding",
-    "https://zenn.dev/abalol/articles/ef518139af593c",
-    "https://zenn.dev/kuroikotech/articles/hypr-connect-hyprland-remote-go",
-    "https://zenn.dev/finatext/articles/950bb849-a05d-43e2-839d-9a154e60b5c3",
-    "https://zenn.dev/alecjp02/articles/mc-router-transfer-architecture",
-    "https://zenn.dev/kapsel/articles/notion-database-howto",
-    "https://zenn.dev/ukintech/articles/jsx-japanese-stray-space",
-    "https://zenn.dev/tyumugiko/articles/19dfb7984bd07c",
-    "https://zenn.dev/ktg/articles/quiethours-google-calendar-overlay",
-    "https://zenn.dev/tomatomerde/articles/jp-address-romaji-offline",
+    "https://zenn.dev/m_sakaaai/articles/2b6e9d1f11aeb3",
+    "https://zenn.dev/hsmt_t/articles/52632f96e78dc8",
+    "https://zenn.dev/tsuzudev05/articles/go-testcontainers-postgres",
+    "https://zenn.dev/kipcop/articles/b42-go-09-transaction",
+    "https://zenn.dev/ekusiadadus/articles/isucon-past-problems-guide",
+    "https://zenn.dev/tetsumaru_tech/articles/mui-datagrid-server-pagination-sorting",
+    "https://zenn.dev/m2dw/articles/n8n-ai-cli-loop-conditions",
+    "https://zenn.dev/izumuzui/articles/be85c0c18ef341",
+    "https://zenn.dev/ma2no4413/articles/mcp-tool-design-csv-argument",
+    "https://zenn.dev/kiyoma/articles/b595c2094d023f",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/norman6464/articles/postgresql-query-processing",
+    "https://zenn.dev/sepi/articles/multica-ai-agent-selfhost",
+    "https://zenn.dev/ykbone/articles/202608-docker-ai-agent-sandboxes",
     "https://zenn.dev/tsuzudev05/articles/claude-code-postgres-hostname-fix",
-    "https://zenn.dev/fagai/articles/dec261ee3ac315",
-    "https://zenn.dev/spookies/articles/238e543fb9a046",
-    "https://zenn.dev/xtm_blog/articles/b9993fe1d72b17",
-    "https://zenn.dev/aco_dog/articles/az-acr-build-windows-crash"
+    "https://zenn.dev/fagai/articles/dec261ee3ac315"
   ]
 }
