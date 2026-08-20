@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/hsmt_t/articles/52632f96e78dc8",
-    "https://zenn.dev/tsuzudev05/articles/go-testcontainers-postgres",
-    "https://zenn.dev/kipcop/articles/b42-go-09-transaction",
-    "https://zenn.dev/ekusiadadus/articles/isucon-past-problems-guide",
-    "https://zenn.dev/snknsk/articles/adk-go-agent-review-practice",
-    "https://zenn.dev/tomatomerde/articles/three-jp-text-libraries",
-    "https://zenn.dev/agentmemories/articles/approval-payload-hash-binding",
-    "https://zenn.dev/7nohe/articles/agents-on-guren-benchmark",
-    "https://zenn.dev/jinsights/articles/6686f203fc45b4",
-    "https://zenn.dev/kodomo_news/articles/25-jsonld-builder",
+    "https://zenn.dev/ament3/articles/ai-digest-2026-08-19-2226",
+    "https://zenn.dev/takao_tachibana/articles/6035785e1c7e93",
+    "https://zenn.dev/yosuke_natto/articles/ea409607614b2a",
+    "https://zenn.dev/kipcop/articles/b42-go-10-update-delete-2",
+    "https://zenn.dev/void09/articles/cc8b7020fe4e66",
+    "https://zenn.dev/zzzzzzz/articles/3f0c8d1a6e2b",
+    "https://zenn.dev/tomatomerde/articles/jp-holiday-libraries-compared",
+    "https://zenn.dev/kittybbit/articles/9194ffffcce311",
+    "https://zenn.dev/kiyoma/articles/7a2771848734b3",
+    "https://zenn.dev/sktt_panda/articles/file-hash-web-crypto-no-streaming-browser",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/yubel/articles/287757ad389891",
     "https://zenn.dev/nosho/articles/05ef150a0cc314",
     "https://zenn.dev/norman6464/articles/postgresql-query-processing",
     "https://zenn.dev/sepi/articles/multica-ai-agent-selfhost",
-    "https://zenn.dev/ykbone/articles/202608-docker-ai-agent-sandboxes",
-    "https://zenn.dev/tsuzudev05/articles/claude-code-postgres-hostname-fix"
+    "https://zenn.dev/ykbone/articles/202608-docker-ai-agent-sandboxes"
   ]
 }
