@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/ament3/articles/ai-digest-2026-08-21-2227",
-    "https://zenn.dev/snknsk/articles/go-prompt-kit-mode-per-file",
-    "https://zenn.dev/catatsuy/articles/8e8dbf6afd1196",
-    "https://zenn.dev/norman6464/articles/go-context-basics",
-    "https://zenn.dev/ym_studio_craft/articles/2be1b530507ad9",
-    "https://zenn.dev/fujishu/articles/7e3bf40a293e7c",
-    "https://zenn.dev/zzzzzzz/books/rxjs-textbook",
-    "https://zenn.dev/ma2no4413/articles/mcp-stdio-and-http-two-layers",
-    "https://zenn.dev/shrek13/articles/ai-agent-framework-selection-guide",
-    "https://zenn.dev/shiromizuj/articles/8a22c8266d4235",
+    "https://zenn.dev/slowhand/articles/07f601d09fb220",
+    "https://zenn.dev/takao_tachibana/articles/31829ac9d0b4d5",
+    "https://zenn.dev/ncdc/articles/661804f1bb2f95",
+    "https://zenn.dev/baleenstudio/articles/4bf0ea11dff5e8",
+    "https://zenn.dev/kipcop/articles/b42-go-13-migration",
+    "https://zenn.dev/dev_commune/articles/nextjs-server-actions-storybook-mock",
+    "https://zenn.dev/magaruya/articles/3994835b29c1f6",
+    "https://zenn.dev/taiyo_swim/articles/psi-api-pitfalls",
+    "https://zenn.dev/okmethod/articles/f9213fe95c1b3e",
+    "https://zenn.dev/9wick/articles/6815082ae5f068",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/crandim_r_and_d/articles/260822_a2_nested_rootless_podman",
+    "https://zenn.dev/serotoninmax/articles/rustdesk-tailscale-docker-remote-desktop",
     "https://zenn.dev/akinori901/articles/20260816-plan001",
     "https://zenn.dev/schutzz/articles/044c40c3e77404",
-    "https://zenn.dev/tasodoufu/articles/github-pages-local-docker-pwn",
-    "https://zenn.dev/tohru_ohnishi/articles/26a4d95c421d61",
-    "https://zenn.dev/redamoon/articles/article53-docker-mt-lamp-cgi-psgi"
+    "https://zenn.dev/tasodoufu/articles/github-pages-local-docker-pwn"
   ]
 }
