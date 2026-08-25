@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/skrtk98/articles/agent-framework-go-preview",
+    "https://zenn.dev/kipcop/articles/b42-go-15-layered-repository",
+    "https://zenn.dev/mabui/articles/eval-precision-recall",
     "https://zenn.dev/tomo_local/articles/bd388db2fd5ab8",
     "https://zenn.dev/okamyuji/articles/mobile-large-file-upload-design",
-    "https://zenn.dev/crgimenes/articles/efeito-plasma-no-terminal-com-golang",
-    "https://zenn.dev/clopy/articles/bumblebee-supply-chain-scan-try",
-    "https://zenn.dev/kipcop/articles/b42-go-14-layered-why",
-    "https://zenn.dev/afternoon_green/articles/b679b33e785c19",
-    "https://zenn.dev/zhebuilds/articles/d9164cdfaac418",
-    "https://zenn.dev/matsutake_prgrm/articles/read-typescript-by-removing-types",
-    "https://zenn.dev/dentyu/articles/aliexpress-webaudio-fingerprinting",
-    "https://zenn.dev/ferretcode/articles/quota-holes-when-limiting-llm-api",
+    "https://zenn.dev/enknot96/articles/fbd405c20c4dd5",
+    "https://zenn.dev/sakuraba_hk/articles/ace3ab5886ca0b",
+    "https://zenn.dev/shuent/articles/d50a6aee61ba13",
+    "https://zenn.dev/shiromizuj/articles/2f1abf3d8bf631",
+    "https://zenn.dev/kapsel/articles/notion-due-date-notify",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/mana_mrl/articles/10f1410f3cc665",
     "https://zenn.dev/nagatoshi/articles/ec2-vs-ecs-fargate",
     "https://zenn.dev/crandim_r_and_d/articles/260822_a2_nested_rootless_podman",
     "https://zenn.dev/serotoninmax/articles/rustdesk-tailscale-docker-remote-desktop",
-    "https://zenn.dev/akinori901/articles/20260816-plan001",
-    "https://zenn.dev/schutzz/articles/044c40c3e77404"
+    "https://zenn.dev/akinori901/articles/20260816-plan001"
   ]
 }
