@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/tomo_local/articles/bd388db2fd5ab8",
+    "https://zenn.dev/okamyuji/articles/mobile-large-file-upload-design",
     "https://zenn.dev/crgimenes/articles/efeito-plasma-no-terminal-com-golang",
     "https://zenn.dev/clopy/articles/bumblebee-supply-chain-scan-try",
     "https://zenn.dev/kipcop/articles/b42-go-14-layered-why",
-    "https://zenn.dev/slowhand/articles/07f601d09fb220",
-    "https://zenn.dev/takao_tachibana/articles/31829ac9d0b4d5",
-    "https://zenn.dev/shiromizuj/articles/4e5b358e5a172d",
-    "https://zenn.dev/romanark/articles/arkor-nextjs-i18n",
-    "https://zenn.dev/hiro_cactus/articles/1ef34c60024259",
-    "https://zenn.dev/ze1ny/articles/codesensei-2days-build",
-    "https://zenn.dev/nagilab/articles/firestore-invoice-tamper-detection",
+    "https://zenn.dev/afternoon_green/articles/b679b33e785c19",
+    "https://zenn.dev/zhebuilds/articles/d9164cdfaac418",
+    "https://zenn.dev/matsutake_prgrm/articles/read-typescript-by-removing-types",
+    "https://zenn.dev/dentyu/articles/aliexpress-webaudio-fingerprinting",
+    "https://zenn.dev/ferretcode/articles/quota-holes-when-limiting-llm-api",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/nagatoshi/articles/ec2-vs-ecs-fargate",
     "https://zenn.dev/crandim_r_and_d/articles/260822_a2_nested_rootless_podman",
     "https://zenn.dev/serotoninmax/articles/rustdesk-tailscale-docker-remote-desktop",
     "https://zenn.dev/akinori901/articles/20260816-plan001",
-    "https://zenn.dev/schutzz/articles/044c40c3e77404",
-    "https://zenn.dev/tasodoufu/articles/github-pages-local-docker-pwn"
+    "https://zenn.dev/schutzz/articles/044c40c3e77404"
   ]
 }
