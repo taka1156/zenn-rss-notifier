@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/finatext/articles/6b8121bafd1f0b",
     "https://zenn.dev/ym_studio_craft/articles/af16e30aec7874",
     "https://zenn.dev/skrtk98/articles/agent-framework-go-preview",
     "https://zenn.dev/kipcop/articles/b42-go-15-layered-repository",
     "https://zenn.dev/mabui/articles/eval-precision-recall",
+    "https://zenn.dev/tomo_local/articles/bd388db2fd5ab8",
+    "https://zenn.dev/ikeyu0806/articles/19f3a83ada9c43",
     "https://zenn.dev/sktt_panda/articles/csv-column-reorder-delete-rebuild-browser",
     "https://zenn.dev/norman6464/books/tiptap-basics",
     "https://zenn.dev/shinsei99/articles/ios-safari-vercel-upload-413",
     "https://zenn.dev/digitalpro/articles/cb46f714ec1933",
-    "https://zenn.dev/enknot96/articles/fbd405c20c4dd5",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/nyondev/articles/3558626c6499c8",
+    "https://zenn.dev/yo_dev/articles/what-is-apt-and-snap",
+    "https://zenn.dev/ceres_tech_blog/articles/8cb3ce7bc4c937",
     "https://zenn.dev/mana_mrl/articles/10f1410f3cc665",
-    "https://zenn.dev/nagatoshi/articles/ec2-vs-ecs-fargate",
-    "https://zenn.dev/crandim_r_and_d/articles/260822_a2_nested_rootless_podman",
-    "https://zenn.dev/serotoninmax/articles/rustdesk-tailscale-docker-remote-desktop",
-    "https://zenn.dev/akinori901/articles/20260816-plan001"
+    "https://zenn.dev/nagatoshi/articles/ec2-vs-ecs-fargate"
   ]
 }
