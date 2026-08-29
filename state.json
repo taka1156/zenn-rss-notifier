@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/kokotatan/articles/robot-go-from-prototype-to-production",
+    "https://zenn.dev/tasodoufu/articles/effective-regression-tests-preconditions",
     "https://zenn.dev/omaga/articles/cd1db27ccced38",
     "https://zenn.dev/kipcop/articles/b42-go-18-goroutine",
     "https://zenn.dev/nonejp/articles/44b5a951ec960c",
-    "https://zenn.dev/nozomi720/articles/manifold-opa-tool-authorization",
-    "https://zenn.dev/ym_studio_craft/articles/01207575d58163",
-    "https://zenn.dev/nadarakainc/articles/0b3681191ac051",
-    "https://zenn.dev/yutaka8484/articles/kobayashi-20260824-cursor-project-rules-mfg",
-    "https://zenn.dev/kodomo_news/articles/32-date-ruby",
-    "https://zenn.dev/armcpteam/articles/4c79a4ab2be998",
-    "https://zenn.dev/taha/articles/0b4cfb2ecedb4b",
+    "https://zenn.dev/matsutake_prgrm/articles/lint-and-build-check-different-things",
+    "https://zenn.dev/markreo/articles/42b29a5a146885",
+    "https://zenn.dev/more_tech_blog/articles/1642281a40e213",
+    "https://zenn.dev/archeelux/articles/83709a8d73f945",
+    "https://zenn.dev/correlate_dev/articles/claude-code-knip-mcp",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/schutzz/articles/404a978d2bf086",
     "https://zenn.dev/akadora2004/articles/5a58fa2c4208f3",
     "https://zenn.dev/koarakko99/books/b1d994f18119dc",
     "https://zenn.dev/yey/articles/27c2db3084995f",
-    "https://zenn.dev/lafine/articles/9ec162985b4310",
-    "https://zenn.dev/nyondev/articles/3558626c6499c8"
+    "https://zenn.dev/lafine/articles/9ec162985b4310"
   ]
 }
