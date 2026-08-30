@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/erenoa6622/articles/char26-blank-padding-linked-misjudge",
     "https://zenn.dev/mino829_a/articles/d200b23ecb4b61",
     "https://zenn.dev/kipcop/articles/b42-go-19-channel",
     "https://zenn.dev/patakuti/articles/0242bb7a4df749",
     "https://zenn.dev/mino829_a/articles/3b2730e9873407",
-    "https://zenn.dev/kokotatan/articles/robot-go-from-prototype-to-production",
+    "https://zenn.dev/manmaru_ai/articles/llm-abi-schema-compatibility",
+    "https://zenn.dev/tanishi_z/articles/07-jin-model-size-prompt-strategy",
+    "https://zenn.dev/shiromizuj/articles/8310743c35104c",
     "https://zenn.dev/takuma_kanazawa/articles/8cf1b5f89c4bcb",
     "https://zenn.dev/refirst11/articles/5a417794864a38",
-    "https://zenn.dev/akinori901/articles/20260816-00msv4li",
-    "https://zenn.dev/matsutake_prgrm/articles/lint-and-build-check-different-things",
-    "https://zenn.dev/markreo/articles/42b29a5a146885",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/mcp/articles/cdff1e87662843",
+    "https://zenn.dev/toukadc/articles/0308328408a5c2",
     "https://zenn.dev/schutzz/articles/404a978d2bf086",
     "https://zenn.dev/akadora2004/articles/5a58fa2c4208f3",
-    "https://zenn.dev/koarakko99/books/b1d994f18119dc",
-    "https://zenn.dev/yey/articles/27c2db3084995f",
-    "https://zenn.dev/lafine/articles/9ec162985b4310"
+    "https://zenn.dev/koarakko99/books/b1d994f18119dc"
   ]
 }
