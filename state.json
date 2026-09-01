@@ -1,23 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/crgimenes/articles/encontrando-os-paths-de-executaveis-usando-go",
+    "https://zenn.dev/erenoa6622/articles/migration-duplicate-version-silent-overwrite",
+    "https://zenn.dev/nonejp/articles/92d3d20c6f6cbf",
+    "https://zenn.dev/gvatech_blog/articles/e257f6fbef5070",
     "https://zenn.dev/pug/articles/typescript-7-native-go",
-    "https://zenn.dev/takao_tachibana/articles/77512522d9b08f",
-    "https://zenn.dev/kai_skrj/articles/go-learning-stumbling-blocks",
-    "https://zenn.dev/erenoa6622/articles/char26-blank-padding-linked-misjudge",
-    "https://zenn.dev/mino829_a/articles/d200b23ecb4b61",
-    "https://zenn.dev/zzzzzzz/articles/f56541d80e24f0",
-    "https://zenn.dev/akinori901/articles/20260816-00msv4li",
-    "https://zenn.dev/miyakona/articles/mcp-api-cache",
-    "https://zenn.dev/chooser/articles/series-008-tooling",
+    "https://zenn.dev/ncdc/articles/3fcecdc47f0d02",
+    "https://zenn.dev/yusaka_lu/articles/incident-game-day0-verify",
+    "https://zenn.dev/t_okubo/articles/3a74889e628741",
+    "https://zenn.dev/refirst11/articles/7912e19692e9c0",
+    "https://zenn.dev/shiromizuj/articles/257742e913f0ca",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/public_note/articles/2dbcb819351ae7",
+    "https://zenn.dev/roba/articles/44a40bf3e29eb7",
+    "https://zenn.dev/kipcop/articles/b42-go-21-dockerfile",
     "https://zenn.dev/nyondev/articles/docker-podman-container-guide",
-    "https://zenn.dev/yoshinn/articles/how_build_image",
-    "https://zenn.dev/toukadc/articles/b15195ce3afb31",
-    "https://zenn.dev/kipcop/articles/b42-go-20-container-basics",
-    "https://zenn.dev/yutaka8484/articles/kobayashi-20260827-dify-docker-selfhost-ops"
+    "https://zenn.dev/yoshinn/articles/how_build_image"
   ]
 }
