@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/erenoa6622/articles/chi-routepattern-unresolved-in-middleware",
+    "https://zenn.dev/nonejp/articles/71c3f5a4c250e6",
     "https://zenn.dev/tasodoufu/articles/skywalking-eyes-config-relative-path",
     "https://zenn.dev/reality_tech/articles/f6305331bccee0",
     "https://zenn.dev/innovation/articles/2c672438bbaec1",
-    "https://zenn.dev/erenoa6622/articles/reserve-before-send-duplicate-mail",
-    "https://zenn.dev/rick2200/articles/728b0ccb1d1da9",
+    "https://zenn.dev/shiromizuj/articles/4b5b72e3ddbafb",
+    "https://zenn.dev/rdlabo/articles/cloudflare-workers-ai-model-benchmark",
+    "https://zenn.dev/genkunjc/articles/9f9ebc54a18544",
+    "https://zenn.dev/ukintech/articles/build-time-safety-invariants",
     "https://zenn.dev/chikina/articles/54551e2c4d5749",
-    "https://zenn.dev/kiki7/articles/34d67411e4a963",
-    "https://zenn.dev/feedge/articles/d1-optimization-and-five-pillar-caching",
-    "https://zenn.dev/jinno_ai/articles/llm-tool-call-valibot",
-    "https://zenn.dev/autocamp/articles/fa0587da19a7d3",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/makotoishida/articles/4c3d1c20ab9c79",
+    "https://zenn.dev/sosa/articles/nginx-ip-access-mitigation",
     "https://zenn.dev/aymaymaym/articles/81ef96af3d122d",
     "https://zenn.dev/kipcop/articles/b42-go-22-multistage-build",
-    "https://zenn.dev/ibukinagase/articles/cybozu_pfe_intern",
-    "https://zenn.dev/o_toro/articles/9315074e1fac8b",
-    "https://zenn.dev/schutzz/books/96678501ca567d"
+    "https://zenn.dev/ibukinagase/articles/cybozu_pfe_intern"
   ]
 }
