@@ -1,10 +1,10 @@
 {
   "known_guids": [
+    "https://zenn.dev/gsnhjj/articles/win32-api-silent-success-go",
     "https://zenn.dev/nonejp/articles/0471de9f9acdaa",
     "https://zenn.dev/kipcop/articles/b42-go-26-jwt-implementation",
     "https://zenn.dev/norman6464/articles/go-atlas-schema",
     "https://zenn.dev/norman6464/articles/go-unit-of-work",
-    "https://zenn.dev/ntk221/articles/34cbb95272720f",
     "https://zenn.dev/taski_app/articles/05-demo-data-transfer-pipeline",
     "https://zenn.dev/minagishl/articles/52e38c32384b19",
     "https://zenn.dev/tinyum/articles/orm-mapper-with-zod",
@@ -15,10 +15,10 @@
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/secula/articles/19ad4b25c5d8fd",
+    "https://zenn.dev/yayu_coffee/articles/b1bc19ebec16a1",
+    "https://zenn.dev/sosa/articles/sinvps-fail2ban-crowdsec",
     "https://zenn.dev/rarai01/articles/5e7a00e939af89",
-    "https://zenn.dev/myonmyon/articles/risa_asir_setup",
-    "https://zenn.dev/springrollsan/articles/971696efefc862",
-    "https://zenn.dev/kipcop/articles/b42-go-24-container-debugging",
-    "https://zenn.dev/k_ts_ngo/articles/a77822a81d5c37"
+    "https://zenn.dev/myonmyon/articles/risa_asir_setup"
   ]
 }
