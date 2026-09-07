@@ -1,24 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/gsnhjj/articles/win32-api-silent-success-go",
-    "https://zenn.dev/nonejp/articles/0471de9f9acdaa",
-    "https://zenn.dev/kipcop/articles/b42-go-26-jwt-implementation",
-    "https://zenn.dev/norman6464/articles/go-atlas-schema",
-    "https://zenn.dev/norman6464/articles/go-unit-of-work",
-    "https://zenn.dev/taski_app/articles/05-demo-data-transfer-pipeline",
-    "https://zenn.dev/minagishl/articles/52e38c32384b19",
-    "https://zenn.dev/tinyum/articles/orm-mapper-with-zod",
-    "https://zenn.dev/m0t0taka/articles/03e95d434d9937",
-    "https://zenn.dev/shiromizuj/articles/45213c8cbb1128",
+    "https://zenn.dev/honi_chan/articles/a929a55630ae4c",
+    "https://zenn.dev/tellernovel_inc/articles/0193eb68cabb6e",
+    "https://zenn.dev/k_konoha13/articles/c8061714869025",
+    "https://zenn.dev/finatext/articles/go-1-25-gomod-ignore-directive",
+    "https://zenn.dev/xioncc/articles/one-way-only-in-five-languages",
+    "https://zenn.dev/yatsumi823/books/a8583c9791dca9",
+    "https://zenn.dev/yujmatsu/articles/20260907_odh_route_search_on_workers",
+    "https://zenn.dev/shiromizuj/articles/94ef0504cea2a2",
+    "https://zenn.dev/afternoon_green/articles/2d77cf6b9cf0af",
+    "https://zenn.dev/tilfin/articles/58cd137cfc5ea2",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/meihao550/articles/4e64cbc7c33d52",
+    "https://zenn.dev/secondselection/articles/docker_local_aws",
+    "https://zenn.dev/lafine/articles/958b229c48b027",
     "https://zenn.dev/secula/articles/19ad4b25c5d8fd",
-    "https://zenn.dev/yayu_coffee/articles/b1bc19ebec16a1",
-    "https://zenn.dev/sosa/articles/sinvps-fail2ban-crowdsec",
-    "https://zenn.dev/rarai01/articles/5e7a00e939af89",
-    "https://zenn.dev/myonmyon/articles/risa_asir_setup"
+    "https://zenn.dev/yayu_coffee/articles/b1bc19ebec16a1"
   ]
 }
