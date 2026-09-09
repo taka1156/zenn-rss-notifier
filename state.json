@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/finatext/articles/go-1-27-godoc-package-version-gomod-tidy",
+    "https://zenn.dev/nonejp/articles/decd95a37ab8c7",
+    "https://zenn.dev/kipcop/articles/b42-go-29-jwt-vulnerabilities",
     "https://zenn.dev/nonejp/articles/63fa32207ed974",
     "https://zenn.dev/finatext/articles/db-hang-survey",
-    "https://zenn.dev/kipcop/articles/b42-go-28-rbac",
-    "https://zenn.dev/shinichitazawa/articles/031-cluster-autoscaler-sakuracloud-provider",
-    "https://zenn.dev/honi_chan/articles/a929a55630ae4c",
+    "https://zenn.dev/tokyoglance/articles/76a2260924bc58",
+    "https://zenn.dev/shiromizuj/articles/926b513f851698",
     "https://zenn.dev/yucco/articles/client-server-logic-drift",
     "https://zenn.dev/kapsel/articles/notion-remind-non-users",
     "https://zenn.dev/ichi_107/articles/940140f9137ad1",
-    "https://zenn.dev/jinsights/articles/6a39a694d3d611",
-    "https://zenn.dev/aozora_ai_dev/articles/f2bad6d461e4a4",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/secondselection/articles/open_webui_ollama",
+    "https://zenn.dev/soranijimame/books/backup-restore-practical-guide",
     "https://zenn.dev/datarobotjp/articles/d8cc6dedb698e9",
     "https://zenn.dev/nattosystem_jp/articles/9b088557d2f7af",
-    "https://zenn.dev/syushy4328/articles/home-server-memory-2026-09-08",
-    "https://zenn.dev/spookies/articles/5c7a7154253d34",
-    "https://zenn.dev/xtm_blog/articles/50fe41fcba3ae7"
+    "https://zenn.dev/syushy4328/articles/home-server-memory-2026-09-08"
   ]
 }
