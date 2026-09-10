@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/mino829_a/articles/5f3584d725ff00",
+    "https://zenn.dev/finatext/articles/anthropic-go-sdk-tool-use-streaming",
+    "https://zenn.dev/135yshr/articles/d7f39c81b2e64a",
+    "https://zenn.dev/135yshr/articles/4f6c7b8a9d0e12",
     "https://zenn.dev/maropook/articles/8cad7b800b137e",
-    "https://zenn.dev/finatext/articles/go-1-27-godoc-package-version-gomod-tidy",
-    "https://zenn.dev/nonejp/articles/decd95a37ab8c7",
-    "https://zenn.dev/kipcop/articles/b42-go-29-jwt-vulnerabilities",
-    "https://zenn.dev/nonejp/articles/63fa32207ed974",
-    "https://zenn.dev/kai_kou/books/nextjs16-clean-arch-tdd-e2e-guide",
-    "https://zenn.dev/yucco/articles/modal-form-reset-useeffect",
-    "https://zenn.dev/my_vision/articles/29d90ef97f162e",
-    "https://zenn.dev/sktt_panda/articles/tate-yomi-generator-acrostic-state-sync-browser",
-    "https://zenn.dev/enknot96/articles/73930d58ac73e8",
+    "https://zenn.dev/devkitlab/articles/b0225acd99613e",
+    "https://zenn.dev/hyconsulting/articles/article-1789027243028",
+    "https://zenn.dev/luisfun/articles/2026-09-discord-hono",
+    "https://zenn.dev/kapsel/articles/notion-reminder-automation-tools",
+    "https://zenn.dev/autocamp/articles/037db4fdc1d6cd",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/devlog/articles/1c82296dc05481",
     "https://zenn.dev/secondselection/articles/open_webui_ollama",
     "https://zenn.dev/soranijimame/books/backup-restore-practical-guide",
     "https://zenn.dev/datarobotjp/articles/d8cc6dedb698e9",
-    "https://zenn.dev/nattosystem_jp/articles/9b088557d2f7af",
-    "https://zenn.dev/syushy4328/articles/home-server-memory-2026-09-08"
+    "https://zenn.dev/nattosystem_jp/articles/9b088557d2f7af"
   ]
 }
