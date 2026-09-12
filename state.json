@@ -1,24 +1,22 @@
 {
   "known_guids": [
-    "https://zenn.dev/resilire/articles/202609-goconf",
-    "https://zenn.dev/catatsuy/articles/254b155f8d5992",
-    "https://zenn.dev/kanmu_dev/articles/6d8496039c7a75",
-    "https://zenn.dev/tsubasa_m/books/go-static-analysis-workshop",
-    "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
-    "https://zenn.dev/ming_dev/articles/2ef1904c8da690",
-    "https://zenn.dev/tamat_llc/articles/netlify-blobs-minimal-storage",
-    "https://zenn.dev/kodomo_news/articles/85-advisor-escalation",
-    "https://zenn.dev/tinyum/articles/ddd-trilemma-branded-type",
-    "https://zenn.dev/singularitylabs/articles/ea5421eb651c75",
+    "https://zenn.dev/yuito2742/articles/ec539d5c465f62",
+    "https://zenn.dev/haruyama480/articles/8969f5b1c01186",
+    "https://zenn.dev/kipcop/articles/b42-go-31-csrf-xss",
+    "https://zenn.dev/okamyuji/articles/egov-law-sync-daily-law-tracking-for-ai",
+    "https://zenn.dev/bitou_engineer/articles/0968af9e32c906",
+    "https://zenn.dev/sktt_panda/articles/pdf-header-footer-drawtext-vs-canvas-rasterize",
+    "https://zenn.dev/kodomo_news/articles/150-minimal-markdown-preview",
+    "https://zenn.dev/sciencepubmed/articles/20cc035a73d15e",
+    "https://zenn.dev/sponge841841/articles/2026-09-11-typescript-satisfies-vs-as",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/sikada/articles/devstory-vmx-comeback",
+    "https://zenn.dev/libredb/articles/dd6d66e340c315",
     "https://zenn.dev/rb_engineering/articles/b642bdb5206cb9",
-    "https://zenn.dev/namakemonomom/articles/9f53000ab1db6b",
-    "https://zenn.dev/fttkmcc/articles/cfb62bc4553106",
-    "https://zenn.dev/konfi/articles/20260910_docker_install_ubuntu",
-    "https://zenn.dev/devlog/articles/1c82296dc05481"
+    "https://zenn.dev/namakemonomom/articles/9f53000ab1db6b"
   ]
 }
