@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/deviceshelf/articles/62f5b04c79d6c9",
+    "https://zenn.dev/yingtian/articles/0e2ad1f97727ba",
+    "https://zenn.dev/kouki73/articles/ea0030fb09b286",
     "https://zenn.dev/watta_medii/articles/go-conference-26",
     "https://zenn.dev/0st_ts/articles/ed818d52fddcca",
-    "https://zenn.dev/tayu99_make/articles/d0afc5ce232058",
-    "https://zenn.dev/yuito2742/articles/ec539d5c465f62",
-    "https://zenn.dev/task4233/articles/gocon2026-simd-roofline",
-    "https://zenn.dev/nafy_ai/articles/69fce585617e81",
-    "https://zenn.dev/tamat_llc/articles/llm-agent-worker-gate",
-    "https://zenn.dev/kasouzou/articles/3d2f82d0cded92",
-    "https://zenn.dev/nonejp/articles/d027b3b9fffede",
-    "https://zenn.dev/gaku_wtnb/articles/1ce65684bae557",
+    "https://zenn.dev/forifori/articles/oathra-evidence-rules",
+    "https://zenn.dev/togihara/articles/b4f760958bb896",
+    "https://zenn.dev/nnydtmg/articles/aws-nx-plugin-terraform",
+    "https://zenn.dev/okmethod/articles/303747c57ff362",
+    "https://zenn.dev/sponge841841/articles/2026-09-13-nextjs-update-tag-vs-revalidate-tag",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/isosa/articles/457a7cac84eee9",
-    "https://zenn.dev/31suke/articles/d1f995b03a46b0",
-    "https://zenn.dev/ajayaditya/articles/aichallenge-starter-kit-traps-2026",
-    "https://zenn.dev/kuu_dqx/books/drift-before-restart",
-    "https://zenn.dev/ma2no4413/articles/mcp-registry-publish-oidc"
+    "https://zenn.dev/sodeyama/articles/tech-evo-ssh-dev-platform",
+    "https://zenn.dev/sora_endo/articles/aether-voicevox-cpu-docker-parallel",
+    "https://zenn.dev/mika_and_coco/articles/wsl-containers-for-docker-desktop-users",
+    "https://zenn.dev/isosa/articles/dc5b3d4849bf0a",
+    "https://zenn.dev/ts200/articles/843f0696393843"
   ]
 }
