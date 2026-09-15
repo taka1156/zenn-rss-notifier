@@ -1,10 +1,10 @@
 {
   "known_guids": [
+    "https://zenn.dev/nonejp/articles/d47d7f9d66f930",
+    "https://zenn.dev/okamyuji/articles/htmx4-what-breaks-in-htmx2-apps",
     "https://zenn.dev/satoken/articles/goconference2026",
     "https://zenn.dev/wakame_atsushi/articles/ab6acf1de00bed",
     "https://zenn.dev/baleenstudio/articles/20fa3179275047",
-    "https://zenn.dev/sakura_internet/articles/sacloud-oss-2026-08",
-    "https://zenn.dev/team_soda/articles/2d7e65d7dfe7a1",
     "https://zenn.dev/penguinengineer/articles/ac505235dc52ad",
     "https://zenn.dev/herp_inc/articles/ratcheting-technical-debt",
     "https://zenn.dev/tosshi/articles/276aa5949340c7",
@@ -15,10 +15,10 @@
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "https://zenn.dev/syushy4328/articles/offload-how-often-used",
+    "https://zenn.dev/bvv/articles/docker-sandbox-agent-evaluation",
     "https://zenn.dev/sodeyama/articles/tech-evo-ssh-dev-platform",
     "https://zenn.dev/sora_endo/articles/aether-voicevox-cpu-docker-parallel",
-    "https://zenn.dev/mika_and_coco/articles/wsl-containers-for-docker-desktop-users",
-    "https://zenn.dev/isosa/articles/dc5b3d4849bf0a",
-    "https://zenn.dev/ts200/articles/843f0696393843"
+    "https://zenn.dev/mika_and_coco/articles/wsl-containers-for-docker-desktop-users"
   ]
 }
