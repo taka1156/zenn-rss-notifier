@@ -1,10 +1,10 @@
 {
   "known_guids": [
+    "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
+    "https://zenn.dev/nonejp/articles/2ab5c7af9b5bb0",
+    "https://zenn.dev/mazrean/articles/27314fad0e5c73",
     "https://zenn.dev/urakawa_jinsei/articles/3dcb9ce458d0c3",
     "https://zenn.dev/s_atsuki/articles/5ea248b68e3ac4",
-    "https://zenn.dev/kaonavi/articles/a8d551f5d715ed",
-    "https://zenn.dev/giuliano/articles/12008f37101d63",
-    "https://zenn.dev/yutadev/articles/2adf236df016f3",
     "https://zenn.dev/kodomo_news/articles/105-one-server-file-on-a-static-site",
     "https://zenn.dev/fukakimono/articles/typescript-sudoku",
     "https://zenn.dev/peoplex_blog/articles/58266fbd03cdeb",
@@ -15,10 +15,10 @@
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
     "https://zenn.dev/poteto0/articles/878ff784aa7800",
     "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "https://zenn.dev/infra_ojisan/articles/hermes-3months",
-    "https://zenn.dev/ajayaditya/articles/practice-4car-sim-final",
-    "https://zenn.dev/kuroikotech/books/practical-podman-linux",
-    "https://zenn.dev/syushy4328/articles/offload-how-often-used",
-    "https://zenn.dev/bvv/articles/docker-sandbox-agent-evaluation"
+    "https://zenn.dev/sodeyama/articles/tech-ci-bottleneck-dimensions",
+    "https://zenn.dev/kurojica/articles/49475486bc40f3",
+    "https://zenn.dev/ts200/articles/6f484940018002",
+    "https://zenn.dev/container_cms/articles/516ce16594661b",
+    "https://zenn.dev/godotys/articles/b6b55b34596807"
   ]
 }
