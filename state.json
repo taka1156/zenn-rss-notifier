@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/sorapenguin/articles/pathtracelab-aws-console-simulator",
     "https://zenn.dev/giuliano/articles/ef700596221879",
     "https://zenn.dev/twsnmp/articles/twsnmpfk-embedded-ai",
     "https://zenn.dev/okamyuji/articles/ai-generated-code-and-c-language",
     "https://zenn.dev/neetux/books/neetux-9traders-btc",
-    "https://zenn.dev/neetux/articles/a1ad0b80d7a500",
-    "https://zenn.dev/tomtom55555/articles/d80e8efb8e4088",
-    "https://zenn.dev/sotarok/articles/crowi-diary-13",
-    "https://zenn.dev/mistletoe/articles/jev-claude-code-guard",
-    "https://zenn.dev/acorn181/articles/a24f9f359e6f95",
-    "https://zenn.dev/nasubikun/articles/correct-use-of-jev",
+    "https://zenn.dev/t_o_d/articles/63ef09fd784bf4",
+    "https://zenn.dev/yuzu_krs/articles/71c18d2589d01e",
+    "https://zenn.dev/mizchi/articles/jev-lint-intro",
+    "https://zenn.dev/tonbi_attack/articles/jev-sql-danger-checker",
+    "https://zenn.dev/jo16oh/articles/1c9c0501fb47a3",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
-    "https://zenn.dev/tmtk/articles/dd3224cc2fe474",
-    "https://zenn.dev/gontaro_k/books/6b614d1526764e",
-    "https://zenn.dev/miyakona/articles/dependency-free-tests-container-smoke",
-    "https://zenn.dev/godotys/articles/50130758294a3a",
-    "https://zenn.dev/nonejp/articles/683b6082dd46e9"
+    "https://zenn.dev/lafine/articles/399b75c55ad7f1",
+    "https://zenn.dev/ot_it_bridge/articles/2fdd40a0bf9ba5",
+    "https://zenn.dev/godotys/articles/2df9f7e45aa27c",
+    "https://zenn.dev/ts200/articles/61ade7c7a4ea30",
+    "https://zenn.dev/rickysb527/articles/venv-docker-vm-comparison"
   ]
 }
