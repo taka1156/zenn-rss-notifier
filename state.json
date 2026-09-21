@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/otakakot/articles/14d162ea65f67d",
+    "https://zenn.dev/kipcop/articles/b42-go-36x2-go-knock",
+    "https://zenn.dev/yusukekikuta/articles/3738272fbecd5a",
+    "https://zenn.dev/oned_tech/articles/oned-idp-hydra-migration",
     "https://zenn.dev/sorapenguin/articles/pathtracelab-aws-console-simulator",
-    "https://zenn.dev/giuliano/articles/ef700596221879",
-    "https://zenn.dev/twsnmp/articles/twsnmpfk-embedded-ai",
-    "https://zenn.dev/okamyuji/articles/ai-generated-code-and-c-language",
-    "https://zenn.dev/neetux/books/neetux-9traders-btc",
-    "https://zenn.dev/mistletoe/books/jev-introduction",
-    "https://zenn.dev/agentmemories/articles/context-compaction-checksum",
-    "https://zenn.dev/t_o_d/articles/63ef09fd784bf4",
-    "https://zenn.dev/mizchi/articles/jev-lint-intro",
-    "https://zenn.dev/tonbi_attack/articles/jev-sql-danger-checker",
+    "https://zenn.dev/autocamp/articles/ddbb37ae5e4be9",
+    "https://zenn.dev/lumichy/articles/typesafe-jev-guide-2026",
+    "https://zenn.dev/hirano_george/articles/38f844af34c871",
+    "https://zenn.dev/salt2/articles/salt2-2-rop-26eadb30",
+    "https://zenn.dev/joinclass/articles/mcp-server-getting-started-2026",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
-    "https://zenn.dev/roba/articles/4a78a3e3046459",
-    "https://zenn.dev/lafine/articles/399b75c55ad7f1",
-    "https://zenn.dev/ot_it_bridge/articles/2fdd40a0bf9ba5",
-    "https://zenn.dev/godotys/articles/2df9f7e45aa27c",
-    "https://zenn.dev/ts200/articles/61ade7c7a4ea30"
+    "https://zenn.dev/memory_piece/articles/self-hosted-osm-tiles-jp",
+    "https://zenn.dev/akinori901/articles/20260921-plan036",
+    "https://zenn.dev/fujota1230/articles/76b2809f500345",
+    "https://zenn.dev/ginnan_wiki/articles/8ca7206e312807",
+    "https://zenn.dev/roba/articles/4a78a3e3046459"
   ]
 }
