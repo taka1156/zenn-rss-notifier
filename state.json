@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/wsuzume/articles/e84cb470004292",
+    "https://zenn.dev/nonejp/articles/58b4439323c814",
+    "https://zenn.dev/lechat/articles/787c7a5661c7fb",
+    "https://zenn.dev/nao078/articles/20231028-go-introduction",
     "https://zenn.dev/yuuxyu/articles/35535f794f43ac",
-    "https://zenn.dev/wsuzume/articles/f17600427dbea2",
-    "https://zenn.dev/blueberry_team/articles/c8b1530f295f72",
-    "https://zenn.dev/kasa320/articles/65874bb0899866",
-    "https://zenn.dev/desktopgame/articles/8b059e44f32750",
-    "https://zenn.dev/amarune/articles/ab639985658797",
-    "https://zenn.dev/nozomi_cobo/articles/jev-spec-introduction",
-    "https://zenn.dev/ohakon_fake/articles/feb381ba5754ad",
-    "https://zenn.dev/forifori/articles/oathra-five-ways",
-    "https://zenn.dev/mistletoe/articles/jev-clip-resistance",
+    "https://zenn.dev/akinori901/articles/20260923-plan038",
+    "https://zenn.dev/masa_dev_x/articles/typesafe-jev-intro",
+    "https://zenn.dev/singularity/articles/three-layers",
+    "https://zenn.dev/joinclass/articles/ai-20260921220019-14619",
+    "https://zenn.dev/whatcha/articles/whatcha-shared-diary-3way-merge",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
+    "https://zenn.dev/godotys/articles/eee476c172be49",
+    "https://zenn.dev/maeda_naoki/articles/devcontainer_mount_best_practice",
     "https://zenn.dev/kentaro_tak/articles/game-mode-stop-docker-while-gaming",
     "https://zenn.dev/sponge841841/articles/2026-09-20-docker-java-multi-stage-build",
-    "https://zenn.dev/mahyon/articles/64427f18890699",
-    "https://zenn.dev/vaonvn/articles/f36850511e20a9",
-    "https://zenn.dev/akisou/articles/7a45b96c16c742"
+    "https://zenn.dev/mahyon/articles/64427f18890699"
   ]
 }
