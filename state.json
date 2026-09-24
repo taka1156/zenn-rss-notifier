@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/nonejp/articles/329a841632fd93",
+    "https://zenn.dev/gopher/articles/adk-vs-genkit-design-philosophy",
     "https://zenn.dev/r57ty7/articles/go-conference-2026",
     "https://zenn.dev/wsuzume/articles/e84cb470004292",
     "https://zenn.dev/nonejp/articles/58b4439323c814",
-    "https://zenn.dev/lechat/articles/787c7a5661c7fb",
-    "https://zenn.dev/nao078/articles/20231028-go-introduction",
-    "https://zenn.dev/bata515/articles/16c31ab1238997",
-    "https://zenn.dev/cuculhart/articles/d1cd857b0f6f63",
-    "https://zenn.dev/akinori901/articles/20260923-plan038",
-    "https://zenn.dev/masa_dev_x/articles/typesafe-jev-intro",
-    "https://zenn.dev/singularity/articles/three-layers",
+    "https://zenn.dev/autocamp/articles/b7e2390f0fef11",
+    "https://zenn.dev/nyaomaru/articles/type-guard-silently-drift",
+    "https://zenn.dev/motani/articles/stagehand-v4-without-llm-key",
+    "https://zenn.dev/gomokulab/articles/8fd1737fde4a2d",
+    "https://zenn.dev/oishiigohan/articles/claude-code-mods-5min-harness",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
+    "https://zenn.dev/paledde/articles/f7bbf9082e5109",
     "https://zenn.dev/cosmonauto/articles/article_8_devcontainer",
     "https://zenn.dev/miki_mini/articles/ef5c6fa93a0d8f",
     "https://zenn.dev/godotys/articles/eee476c172be49",
-    "https://zenn.dev/maeda_naoki/articles/devcontainer_mount_best_practice",
-    "https://zenn.dev/kentaro_tak/articles/game-mode-stop-docker-while-gaming"
+    "https://zenn.dev/maeda_naoki/articles/devcontainer_mount_best_practice"
   ]
 }
