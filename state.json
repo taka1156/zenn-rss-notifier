@@ -1,24 +1,24 @@
 {
   "known_guids": [
+    "https://zenn.dev/ymotongpoo/books/observability-platform-with-otel",
+    "https://zenn.dev/nonejp/articles/0013598f4da15a",
     "https://zenn.dev/sho5335/articles/0bedc59e1cb6b7",
     "https://zenn.dev/nonejp/articles/007a6d86da12aa",
     "https://zenn.dev/saito_aws/articles/1de78b419bf9cb",
-    "https://zenn.dev/yumemi_inc/articles/go-errlogreturn-duplicate-error-logs",
-    "https://zenn.dev/knowledgework/articles/6f878dd40fc03c",
-    "https://zenn.dev/t_o_d/articles/c37d73f3820b92",
-    "https://zenn.dev/milky/articles/nextjs-directory-structure",
-    "https://zenn.dev/ikurakakaruno/articles/bd72734cd12cac",
-    "https://zenn.dev/akinori901/articles/20260826-plan010",
-    "https://zenn.dev/rikachiii/articles/afe30af97cdd9e",
+    "https://zenn.dev/jisaku_net/articles/babylonjs-picking-device-pixel-ratio",
+    "https://zenn.dev/jinc_tdil/articles/wedding-guest-app-01-overview",
+    "https://zenn.dev/gaku_wtnb/articles/9c0436e3870899",
+    "https://zenn.dev/miyanaga/articles/zenn-2026-09-26",
+    "https://zenn.dev/quintetkit/articles/composite-github-action",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
+    "https://zenn.dev/windingroad_dev/books/e9488add48d2fb",
     "https://zenn.dev/motani/articles/claude-code-v2-1-282-settings-security-fix",
     "https://zenn.dev/sonicmoov/articles/http3-hands-on",
     "https://zenn.dev/nao078/articles/20231029-wsl2-ubuntu-docker",
-    "https://zenn.dev/lafine/articles/b7e553012248a6",
-    "https://zenn.dev/akinori901/articles/20260824-plan008"
+    "https://zenn.dev/lafine/articles/b7e553012248a6"
   ]
 }
