@@ -1,23 +1,24 @@
 {
   "known_guids": [
-    "https://zenn.dev/ishizakahiroshi/articles/20260927-ui-freeze-instrumentation-purge",
-    "https://zenn.dev/nonejp/articles/f54124ccbcb0eb",
-    "https://zenn.dev/yuya_0811/articles/ddf9306fe2e5dd",
-    "https://zenn.dev/kipcop/articles/b42-go-40x-ctf-knock",
-    "https://zenn.dev/jy8752/articles/50dd8147b3a512",
-    "https://zenn.dev/suns/articles/d919fcca514847",
-    "https://zenn.dev/yohakucode/articles/react-vite-tailwind-pnl-monitor",
-    "https://zenn.dev/logdriven/articles/all-green-but-broken",
-    "https://zenn.dev/suminawa/articles/5d034a5f40dec6",
+    "https://zenn.dev/nonejp/articles/f8bb1452dee8e2",
+    "https://zenn.dev/tnkn08/articles/clean-architecture-dip-dto",
+    "https://zenn.dev/sator_imaging/articles/834240491191ec",
+    "https://zenn.dev/uthuyomi/articles/4cbdd8df304a00",
+    "https://zenn.dev/kohei03/articles/5e3e2a40938bea",
+    "https://zenn.dev/cosoado/articles/nextjs16-middleware-to-proxy-migration",
+    "https://zenn.dev/genkunjc/articles/game-ai-preregistered-ab-two-rules",
+    "https://zenn.dev/quintetkit/articles/safe-default-destructive-update",
+    "https://zenn.dev/sodeyama/articles/tech-even-g2-ai-organization",
+    "https://zenn.dev/shoma_endo/articles/20260927-670ecc94",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
     "https://zenn.dev/t_ujiie/articles/933fafaa0c128b",
+    "https://zenn.dev/ryoku4/books/d08483a9a92a98",
+    "https://zenn.dev/himaroku66/articles/7c699432c41944",
     "https://zenn.dev/it_imataka/articles/655156ff88f77f",
     "https://zenn.dev/mskbhd/articles/lab-800-twentymcp",
-    "https://zenn.dev/windingroad_dev/books/e9488add48d2fb",
-    "https://zenn.dev/motani/articles/claude-code-v2-1-282-settings-security-fix",
-    "https://zenn.dev/sonicmoov/articles/http3-hands-on"
+    "https://zenn.dev/windingroad_dev/books/e9488add48d2fb"
   ]
 }
