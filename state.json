@@ -1,24 +1,23 @@
 {
   "known_guids": [
+    "https://zenn.dev/sohohold/articles/go-embed-lambda-cold-start",
+    "https://zenn.dev/kipcop/articles/b42-go-42x-github-actions",
     "https://zenn.dev/ishizakahiroshi/articles/20260927-dev-cache-cleanup",
     "https://zenn.dev/tokium_dev/articles/burgerstack-free-deploy-comparison",
     "https://zenn.dev/nonejp/articles/40085a2e6a0a6f",
-    "https://zenn.dev/canary_techblog/articles/348d976da70857",
-    "https://zenn.dev/hacobell_dev/articles/intern-report-ai-driven-dev-go",
-    "https://zenn.dev/techtrain_blog/articles/frontend-phpcon-hokkaido-2026-adt",
-    "https://zenn.dev/nextnexus/articles/nextjs-uselinkstatus-link-pending-feedback",
-    "https://zenn.dev/yukiharada1228/articles/ec86d7cad0955b",
-    "https://zenn.dev/yukiharada1228/articles/b008990c7f038e",
-    "https://zenn.dev/logdriven/articles/ai-time-constraint-1-of-8",
+    "https://zenn.dev/opencapture/articles/28480d041692fa",
+    "https://zenn.dev/ayaextech_fill/articles/specta-crate-learning",
+    "https://zenn.dev/kodomo_news/articles/206-sequential-file-numbers-across-clones",
+    "https://zenn.dev/lunaforge/articles/173eca76d985d3",
+    "https://zenn.dev/zeppon/articles/ogp-japanese-linebreak",
     "https://zenn.dev/connect0459/articles/run-moonbit-on-mobile-via-wasm",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
-    "https://zenn.dev/spookies/articles/eeadec0818d724",
-    "https://zenn.dev/nao078/articles/20240310-hx100g-docker-steamos",
-    "https://zenn.dev/chiaki_ai_lab/articles/ollama-vram-16gb-nodejs-pitfalls",
-    "https://zenn.dev/yohakucode/articles/wsl3-wsl2-wslc-update",
-    "https://zenn.dev/dozo/articles/9e7e0a9f1b1ff5"
+    "https://zenn.dev/dkdk443/articles/6a2b67e77c90bc",
+    "https://zenn.dev/wwwave/articles/537d575c81258d",
+    "https://zenn.dev/aiforall/articles/10d5e569207a08",
+    "https://zenn.dev/spookies/articles/eeadec0818d724"
   ]
 }
