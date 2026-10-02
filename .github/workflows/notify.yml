@@ -1,10 +1,10 @@
 name: Zenn RSS to Discord
 
 on:
-  schedule:
+  # schedule:
     # 日本時間 10:00 / 20:00 に実行 (UTC = JST - 9h)
-    - cron: "0 1 * * *"
-    - cron: "0 11 * * *"
+    # - cron: "0 1 * * *"
+    # - cron: "0 11 * * *"
   workflow_dispatch:
 
 concurrency:
