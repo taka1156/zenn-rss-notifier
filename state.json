@@ -1,23 +1,23 @@
 {
   "known_guids": [
+    "https://zenn.dev/gvatech_blog/articles/18e241597ed711",
+    "https://zenn.dev/mentaikojp/articles/488cff45bcc126",
     "https://zenn.dev/sohohold/articles/go-embed-lambda-cold-start",
     "https://zenn.dev/kipcop/articles/b42-go-42x-github-actions",
     "https://zenn.dev/ishizakahiroshi/articles/20260927-dev-cache-cleanup",
-    "https://zenn.dev/tokium_dev/articles/burgerstack-free-deploy-comparison",
-    "https://zenn.dev/nonejp/articles/40085a2e6a0a6f",
-    "https://zenn.dev/opencapture/articles/28480d041692fa",
-    "https://zenn.dev/ayaextech_fill/articles/specta-crate-learning",
-    "https://zenn.dev/kodomo_news/articles/206-sequential-file-numbers-across-clones",
-    "https://zenn.dev/lunaforge/articles/173eca76d985d3",
-    "https://zenn.dev/zeppon/articles/ogp-japanese-linebreak",
+    "https://zenn.dev/yunisuta/articles/ai1-dedup-ai-2026-05-18-budgetexceeded-t-bucr8p",
+    "https://zenn.dev/sawaraa/articles/tsumugi-for-kintone",
+    "https://zenn.dev/penguinengineer/articles/66faef2ce659a3",
+    "https://zenn.dev/ikeyu0806/articles/6306dcb4e82df9",
+    "https://zenn.dev/hirajo/articles/jev-inbox-triage",
     "https://zenn.dev/connect0459/articles/run-moonbit-on-mobile-via-wasm",
     "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
     "https://zenn.dev/agdf/articles/e1539657de0e46",
     "https://zenn.dev/totto2727/books/44b6b3591393a5",
+    "https://zenn.dev/sharl/articles/826123681894d7",
     "https://zenn.dev/dkdk443/articles/6a2b67e77c90bc",
     "https://zenn.dev/wwwave/articles/537d575c81258d",
-    "https://zenn.dev/aiforall/articles/10d5e569207a08",
-    "https://zenn.dev/spookies/articles/eeadec0818d724"
+    "https://zenn.dev/aiforall/articles/10d5e569207a08"
   ]
 }
